@@ -1,0 +1,119 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D43E9AC9-D3FB-4B45-B9A7-78B9A1D3D810",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -623,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "57C41B44-98AE-4FB1-81BC-6B5BD4C9D8D5"
+    },
+    {
+      "class": "bitmap",
+      "id": "D20E6B1E-3CDA-44BA-9B63-081857DE7CCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26E579E8-1ED0-400F-9A5E-8F42FA06CCDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34D318CD-945D-45CB-8D60-913950148B30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50C6D682-E8C3-4674-BC80-8EEA09F16C9C"
+    },
+    {
+      "class": "text",
+      "id": "202FF04A-DE9D-45F5-A98D-68396908DDCB"
+    },
+    {
+      "class": "bitmap",
+      "id": "AB87E066-ECB6-4EDD-9FDB-56AB9E8529D2"
+    },
+    {
+      "class": "text",
+      "id": "685DCC04-B035-4B99-9B25-8DA4933802F9"
+    },
+    {
+      "class": "text",
+      "id": "DD98212B-0492-45B8-8304-D99E52014043"
+    },
+    {
+      "class": "text",
+      "id": "A196BDB6-522E-40E4-8BFB-5FDB6A0BE865"
+    },
+    {
+      "class": "rectangle",
+      "id": "50A4EC08-6E86-4D27-A4D0-D927CDCC2FA8"
+    },
+    {
+      "class": "rectangle",
+      "id": "869C0DEE-0579-49A0-96EC-664C6168FBC1"
+    },
+    {
+      "class": "rectangle",
+      "id": "A34E1EBC-6DE0-4916-B73B-5F12D3007DF8"
+    },
+    {
+      "class": "group",
+      "id": "A81C473C-F5A2-4195-A910-1EAD86FC450B"
+    },
+    {
+      "class": "group",
+      "id": "AFFA8801-492D-4BBA-A9BD-CA8A57748F1F"
+    }
+  ],
+  "name": "Branding & Transit Details",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -485,
+    "guides": [
+    ]
+  }
+}

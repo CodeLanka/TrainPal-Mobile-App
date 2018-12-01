@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "991A3684-D3E4-4DCE-9612-368581D9ADD8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9821F4EB-43F4-4F17-8F39-87D24ECACD02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60CA8582-1420-44B5-A283-626A8A1C56E3",
+    "height": 49,
+    "width": 46,
+    "x": 16,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8AB5D3F-D001-4A17-9716-69D3BC624B4B",
+      "overrideName": "416DD2FB-DFCE-4BE4-A6E5-F3C1FD2915BE/78FD214F-3EE5-49AC-97F7-07B1F13A410D_symbolID",
+      "value": "E35D5F12-3056-4760-8804-2117F615BF9B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CDA82661-BF4A-4B02-8A54-5ADCE523852B",
+      "overrideName": "4755087B-0E32-43A4-BF60-1702D14F1230_stringValue",
+      "value": "Home"
+    }
+  ],
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BD43C782-C015-4359-89A3-FEA94382DA12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FBA872B-9457-4034-B23E-C28D0CBBC2DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

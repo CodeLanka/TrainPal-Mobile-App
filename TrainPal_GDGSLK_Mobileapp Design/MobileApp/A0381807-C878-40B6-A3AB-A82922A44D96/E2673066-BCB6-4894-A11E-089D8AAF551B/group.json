@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2673066-BCB6-4894-A11E-089D8AAF551B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 360,
+    "x": 0,
+    "y": 657
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5301CB89-E249-4269-AF48-2A27958173E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98E73139-041E-4C32-A169-D0FB6ED4B345"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93F9457D-D3FC-4195-A4E1-1EDDB5452846"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AB46D4A-3FD4-4DB6-A5F4-F752D95BC710"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47067ABD-584D-48E4-B172-B5322680E418"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8B2CD81-1533-410C-B1A0-C901E84CC81F"
+    }
+  ],
+  "name": "Bars / Tab Bar / iPhone X / Light - 3 Tabs",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

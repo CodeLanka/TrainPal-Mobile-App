@@ -1,0 +1,136 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAC51106-67D6-4046-9110-85541E4F675B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 7,
+    "width": 19,
+    "x": 15,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9054B8CD-52AE-49B8-ABC5-8C52AB02F193"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9860FEF-FBA0-4F59-8E13-856580F182D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "DDC7AD78-9647-4589-89C5-E3A15780CE75"
+    },
+    {
+      "class": "shapePath",
+      "id": "94D82AEB-2219-43D9-AB1F-3B9098369AE3"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A46AF0B-516B-4F13-BA4F-3AA1995206AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "35BC0914-536F-4BEA-9485-27F1EDC0C9C9"
+    }
+  ],
+  "name": "Class",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Roman",
+            "size": 12
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 9.288,
+            "enabled": 1,
+            "modelID": "constraint_419e1c9b-6468-4d45-bb39-bad4e27c3cd1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 26.796
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c79e2485-c794-4fc3-aa4b-5051c7f68ffa",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

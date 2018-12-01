@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3379F5E4-ED3E-431D-91E5-A96093717AA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0F45CDCF-65ED-41D1-A26A-DC83FEC06CF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "757B231E-9FF6-4A12-9727-9AE8958D7D82",
+    "height": 49,
+    "width": 48,
+    "x": 156,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "131AE8E7-F10A-4130-AC54-3AB5B2AFDC27",
+      "overrideName": "416DD2FB-DFCE-4BE4-A6E5-F3C1FD2915BE_symbolID",
+      "value": "1C3B426C-AF2A-4D2B-8D82-30FD69FC583B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30B1C522-D637-4CF2-A3AA-A8F74D33C314",
+      "overrideName": "416DD2FB-DFCE-4BE4-A6E5-F3C1FD2915BE/6589109E-396D-414D-8CD5-7469A67132F7_symbolID",
+      "value": "E35D5F12-3056-4760-8804-2117F615BF9B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3550DD2D-C1C5-47E7-8257-C13A0F742360",
+      "overrideName": "373F5B5D-C4D2-412E-8805-C4B774381353_stringValue",
+      "value": "Stations  T.."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "69F0D1CE-3E44-4CC3-AFF2-BD05A8590207",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8CBDD9B-ACB4-44D2-807A-055C9174D633",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

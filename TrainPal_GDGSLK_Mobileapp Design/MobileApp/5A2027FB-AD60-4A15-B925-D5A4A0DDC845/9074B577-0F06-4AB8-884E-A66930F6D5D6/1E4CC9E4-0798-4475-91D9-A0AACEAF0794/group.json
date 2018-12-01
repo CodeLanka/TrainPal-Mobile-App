@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E4CC9E4-0798-4475-91D9-A0AACEAF0794",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D63E03B2-B77A-4477-8297-39CDA46AEA74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "682D5562-A372-4FD0-B428-B483736543CA",
+    "height": 30,
+    "width": 30,
+    "x": 59,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "C91CFDD9-0F34-4B28-A405-1A9999399F3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EF6E98B4-D920-40F1-8268-E23D40E40C30"
+    }
+  ],
+  "name": "turn-way",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1408A4C7-5D84-4222-8252-1146A6DE0E7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

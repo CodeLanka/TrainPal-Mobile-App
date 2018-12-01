@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BC61D16A-5FF4-43C4-BE8D-4114AE597621",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A986DEDF-E0C2-4CE5-9658-331FDD5FF827",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D029C8D4-8B3F-4922-8386-E02D3E02893C",
+    "height": 49,
+    "width": 48,
+    "x": 296,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab 5",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0E791C09-34C6-4F0A-AED3-FDB37AD9A62A",
+      "overrideName": "0F623E7B-6A82-4AA9-83EB-CBE67C957BA1_symbolID",
+      "value": "65C14A21-E74E-47FB-B713-379858FCB2E6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9841E0B1-36DC-4C6C-B65B-57D59D0A5045",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FBA872B-9457-4034-B23E-C28D0CBBC2DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

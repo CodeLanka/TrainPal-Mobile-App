@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AB46D4A-3FD4-4DB6-A5F4-F752D95BC710",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 49,
+    "width": 48,
+    "x": 156,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0F623E7B-6A82-4AA9-83EB-CBE67C957BA1/30598B3F-F394-48A9-87CD-9C4854C09FEC_symbolID",
+      "value": "E35D5F12-3056-4760-8804-2117F615BF9B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0F623E7B-6A82-4AA9-83EB-CBE67C957BA1_symbolID",
+      "value": "1C3B426C-AF2A-4D2B-8D82-30FD69FC583B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4755087B-0E32-43A4-BF60-1702D14F1230_stringValue",
+      "value": "Stations  T.."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FBA872B-9457-4034-B23E-C28D0CBBC2DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

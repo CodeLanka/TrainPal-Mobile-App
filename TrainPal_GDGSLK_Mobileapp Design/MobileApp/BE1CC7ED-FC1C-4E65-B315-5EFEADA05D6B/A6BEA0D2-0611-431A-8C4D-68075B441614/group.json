@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6BEA0D2-0611-431A-8C4D-68075B441614",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 328,
+    "x": 16,
+    "y": 705
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "04E0F9C3-B1F6-4C7B-9499-CFD79D0687B3"
+    },
+    {
+      "class": "group",
+      "id": "7DD69792-5B07-47B5-A63C-2E247929C27A"
+    },
+    {
+      "class": "group",
+      "id": "0EA08992-2B54-4DF7-A457-7D5F9CCC3C0D"
+    },
+    {
+      "class": "group",
+      "id": "3F7DEC3D-81E4-4D4C-82DA-7ADB17CDB39F"
+    },
+    {
+      "class": "group",
+      "id": "4B30B731-908C-49A6-BD03-7908F67A7229"
+    },
+    {
+      "class": "group",
+      "id": "CDA3221A-B42F-4D5D-9EB3-C401C12A43D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87AA34FC-C1DE-4068-B10B-1A651ED28207"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E9D42CC-281E-4354-9952-4C44543EAEB5"
+    },
+    {
+      "class": "text",
+      "id": "D6AB82D7-1001-4A89-8946-3573C31CBD28"
+    },
+    {
+      "class": "text",
+      "id": "5B2EAB9E-F1BB-44D6-85EB-2D0B5750B754"
+    }
+  ],
+  "name": "fav-jour-widget copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

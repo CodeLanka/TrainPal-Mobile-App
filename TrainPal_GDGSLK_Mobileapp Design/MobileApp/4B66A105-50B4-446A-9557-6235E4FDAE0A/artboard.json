@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B66A105-50B4-446A-9557-6235E4FDAE0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 740,
+    "width": 360,
+    "x": 504,
+    "y": 147
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DBB83726-F229-4F25-B121-0584DEE08D16"
+    },
+    {
+      "class": "group",
+      "id": "79549C4D-6373-44A7-819A-8E24D420C1AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "134D1D4B-2A43-45DE-BF00-0393D663B53E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D32E5A2B-96FE-4127-BFE1-C0CAB1792E90"
+    },
+    {
+      "class": "rectangle",
+      "id": "957976C1-47E3-4193-91F4-C3FEDB8C7207"
+    },
+    {
+      "class": "group",
+      "id": "890DA94A-A07D-476C-B1B4-9F569C84CDB4"
+    },
+    {
+      "class": "rectangle",
+      "id": "95152356-B716-498D-AF23-81E1F8470B01"
+    },
+    {
+      "class": "text",
+      "id": "F2D23249-6C82-489E-99B6-F9EA2EAD8067"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05310FB8-2683-4427-A60B-685022B0717C"
+    },
+    {
+      "class": "group",
+      "id": "DE8F036E-1FB1-4BA8-94D1-89CFC95B18D9"
+    },
+    {
+      "class": "group",
+      "id": "820E39F9-288E-4D30-8B1F-1B2115922C7B"
+    },
+    {
+      "class": "group",
+      "id": "EEDFCCEF-C93C-4C0A-961E-99BD755E540D"
+    },
+    {
+      "class": "group",
+      "id": "0DA16118-6BAE-4C4F-8471-B4314E1DCE6B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8ACE594-299C-4A3D-811A-CDE7EBF5E5F6"
+    },
+    {
+      "class": "group",
+      "id": "DD134322-38FC-42A2-BB61-51130883380C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5829BD0A-DC29-4B9B-B6AA-BA7B8461384F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44812764-2803-4558-9992-E73480E14C39"
+    },
+    {
+      "class": "rectangle",
+      "id": "19302870-0D0B-439B-9540-EA4C5BDC80AF"
+    },
+    {
+      "class": "text",
+      "id": "3EE52977-4FC9-48B3-AFFE-F98B41E5DD52"
+    },
+    {
+      "class": "shapePath",
+      "id": "7AD863CA-4BA7-410B-AE28-4467435D4FCB"
+    }
+  ],
+  "name": "Land",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 2 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

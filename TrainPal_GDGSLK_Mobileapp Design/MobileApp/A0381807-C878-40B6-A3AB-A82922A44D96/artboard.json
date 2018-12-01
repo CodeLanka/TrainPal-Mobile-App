@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0381807-C878-40B6-A3AB-A82922A44D96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 740,
+    "width": 360,
+    "x": 6946,
+    "y": 147
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E2673066-BCB6-4894-A11E-089D8AAF551B"
+    },
+    {
+      "class": "group",
+      "id": "3D2F1C19-271B-4F46-BBCA-8B1210A70E52"
+    },
+    {
+      "class": "group",
+      "id": "144E067A-0E54-4952-A17C-E6692E8EB495"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BA61891-C1F7-48F5-B1F5-516AF85EFBBB"
+    },
+    {
+      "class": "text",
+      "id": "407C9552-F0B4-4E5E-ADAF-158418C583C0"
+    },
+    {
+      "class": "text",
+      "id": "90A80871-2AA0-422B-9386-C956AA9EEF3F"
+    },
+    {
+      "class": "text",
+      "id": "D0B84256-31AD-42AF-A672-6AEE555EAF83"
+    },
+    {
+      "class": "text",
+      "id": "092D47EB-51E2-4CF3-9B9D-AD1197AC21CE"
+    },
+    {
+      "class": "group",
+      "id": "79F29EA8-0746-4DC2-9E2B-82B91A1F340A"
+    },
+    {
+      "class": "group",
+      "id": "886515A2-2E84-49B1-B0FA-278DCAED42DE"
+    },
+    {
+      "class": "group",
+      "id": "E544AB68-26B0-436D-8D25-584D97D35148"
+    },
+    {
+      "class": "group",
+      "id": "6D5EFAE4-73E2-4D0E-B02F-DFF39F2BB38C"
+    },
+    {
+      "class": "group",
+      "id": "CF24AC98-B918-4AF7-82BD-9CF3078AC977"
+    },
+    {
+      "class": "shapePath",
+      "id": "3CF7A803-8C60-4594-AA59-C964B59C26EE"
+    },
+    {
+      "class": "text",
+      "id": "74AB9505-7B73-45DA-A4D1-4E474C71B740"
+    },
+    {
+      "class": "text",
+      "id": "8570AE34-FADA-40B0-BE2F-E6311340EF25"
+    }
+  ],
+  "name": "Tickets - onhold",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 2 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

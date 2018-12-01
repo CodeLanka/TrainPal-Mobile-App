@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D536C512-2443-48C9-A67A-F39A1A01EA52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "55AD66E2-9BD8-42D8-B665-E9FD3EA6B321",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "404DF9F5-D3F1-494B-89F5-CA090DF1ED2D",
+    "height": 49,
+    "width": 46,
+    "x": 16,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89821302-5C81-4E1D-9794-1AC11C432D68",
+      "overrideName": "373F5B5D-C4D2-412E-8805-C4B774381353_stringValue",
+      "value": "Home"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8AB5D3F-D001-4A17-9716-69D3BC624B4B",
+      "overrideName": "416DD2FB-DFCE-4BE4-A6E5-F3C1FD2915BE/78FD214F-3EE5-49AC-97F7-07B1F13A410D_symbolID",
+      "value": "E35D5F12-3056-4760-8804-2117F615BF9B"
+    }
+  ],
+  "resizingConstraint": 15,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9C07D97-453B-4F6A-8DFE-12D75B71C88B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A8CBDD9B-ACB4-44D2-807A-055C9174D633",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

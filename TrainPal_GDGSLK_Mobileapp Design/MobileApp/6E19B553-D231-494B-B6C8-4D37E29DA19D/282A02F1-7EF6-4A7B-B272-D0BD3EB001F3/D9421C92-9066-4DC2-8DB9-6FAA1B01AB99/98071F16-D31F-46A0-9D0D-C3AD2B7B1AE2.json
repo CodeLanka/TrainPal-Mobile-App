@@ -1,0 +1,81 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "98071F16-D31F-46A0-9D0D-C3AD2B7B1AE2",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC8EF032-6DCF-4285-9478-660A138E91AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26D89CAA-D8A0-4B05-9B63-E39EDE53D8D6",
+    "height": 0.2595776856706067,
+    "width": 0.1612971923392159,
+    "x": 29.25134768322374,
+    "y": 15.3720990549753
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.42999999999994998, 0.68125000000000457}",
+      "curveMode": 4,
+      "curveTo": "{0.76518167715857999, 0.98258600751041658}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.64999999999997726, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.22000000000002728, 0.37499999999999778}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.88211481594396446, 0.97005745692623779}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.96249999999999847}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1, 0.96249999999999847}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0363D031-1173-4103-9AB6-042DEC6AD3F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

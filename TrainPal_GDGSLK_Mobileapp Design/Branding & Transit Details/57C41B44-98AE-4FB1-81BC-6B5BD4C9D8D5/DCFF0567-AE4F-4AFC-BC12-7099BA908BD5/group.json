@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCFF0567-AE4F-4AFC-BC12-7099BA908BD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84B4115A-A032-42EB-A54A-6E7B7EF95A5F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84FC37E1-5539-4D68-861F-62B6C2025238",
+    "height": 34,
+    "width": 30,
+    "x": 209,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "482BEF28-2CC9-4F3F-9C05-61CF7449A15B"
+    },
+    {
+      "class": "text",
+      "id": "13878B9A-BDC6-46B2-A2C6-6CCD7406221E"
+    }
+  ],
+  "name": "E Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A245011-1E44-4AD7-8E61-43A181B49AB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

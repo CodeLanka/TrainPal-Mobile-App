@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "886515A2-2E84-49B1-B0FA-278DCAED42DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 126,
+    "width": 328,
+    "x": 16,
+    "y": 173
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "83A76C0E-703C-480E-BA9D-6CD1DCE55873"
+    },
+    {
+      "class": "group",
+      "id": "D5BBD192-EB71-42D9-8B3A-460E660A64AF"
+    },
+    {
+      "class": "group",
+      "id": "F7CBA42C-F134-4378-9F31-B58856B5D831"
+    },
+    {
+      "class": "text",
+      "id": "3892D2B7-EB6B-4308-B8DE-3578426BA03D"
+    }
+  ],
+  "name": "ticket-lot",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

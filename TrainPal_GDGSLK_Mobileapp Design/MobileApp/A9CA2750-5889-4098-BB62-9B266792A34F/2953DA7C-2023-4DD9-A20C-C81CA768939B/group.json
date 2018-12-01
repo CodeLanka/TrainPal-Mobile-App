@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2953DA7C-2023-4DD9-A20C-C81CA768939B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F09257E7-A185-47B4-B016-ADF63CC42376",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D443F3EC-D57F-4E61-A461-BB12F9A140F1",
+    "height": 120,
+    "width": 328,
+    "x": 16,
+    "y": 617
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "50EA2833-BF30-4FDC-B8CA-1349D3B7AAA7"
+    },
+    {
+      "class": "group",
+      "id": "06ED4F8D-D7BE-40F3-AA0F-D9994F41BFBC"
+    },
+    {
+      "class": "shapePath",
+      "id": "3075F1E4-1AF7-4675-AF9F-D55F4F43BDE7"
+    },
+    {
+      "class": "rectangle",
+      "id": "A14DAAB4-BC9A-41AF-972E-3FB42D1145E6"
+    },
+    {
+      "class": "text",
+      "id": "ACF07AF4-8A29-467D-B69A-656207D6EE14"
+    },
+    {
+      "class": "text",
+      "id": "15A0BED5-2C1E-4D2E-B917-F3AD28045104"
+    },
+    {
+      "class": "group",
+      "id": "9D79A75B-A2C7-44FE-9A38-D4F6AD3AF392"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28E13EF1-60DA-4E98-871B-0D3DDCC871AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFC9358B-1576-4C01-B4DB-0927F8D92192"
+    },
+    {
+      "class": "rectangle",
+      "id": "7758FB05-9FAA-4FD7-AF88-5D7D30C24489"
+    },
+    {
+      "class": "text",
+      "id": "05DEE967-0A77-457D-A8F3-54900A5957BB"
+    },
+    {
+      "class": "text",
+      "id": "FECB56F2-4EE0-467C-9949-88D871476330"
+    },
+    {
+      "class": "text",
+      "id": "9DFF33BC-D244-4FB4-8387-6DB6CB1FA863"
+    }
+  ],
+  "name": "ticket-widget copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76AA0237-8DA0-4E30-AACA-DBB9BAF5C513",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

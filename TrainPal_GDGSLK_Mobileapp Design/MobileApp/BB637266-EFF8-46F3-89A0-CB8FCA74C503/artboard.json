@@ -1,0 +1,127 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BB637266-EFF8-46F3-89A0-CB8FCA74C503",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 740,
+    "width": 360,
+    "x": 1424,
+    "y": 147
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BAB2A408-5130-4F44-850A-8273D4DA9C14"
+    },
+    {
+      "class": "group",
+      "id": "1BCB5D34-49A1-457B-826F-DA51EC8BEABB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "18C17784-E328-4604-8D8C-34BFB41B5D47"
+    },
+    {
+      "class": "group",
+      "id": "E18704DD-CE14-4AFE-836E-438D5128DD6A"
+    },
+    {
+      "class": "oval",
+      "id": "C48F07CD-684A-4ABE-8D04-A89B54ACB21F"
+    },
+    {
+      "class": "text",
+      "id": "C8E99336-46E4-4D18-883A-128C706CF357"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B398417C-B108-4835-A8ED-481FDBF4D1FF"
+    },
+    {
+      "class": "text",
+      "id": "F80AF2A3-7A99-44DB-A1F3-ABF2A8B5FF8D"
+    }
+  ],
+  "name": "Nav -2nd idea",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 2 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
