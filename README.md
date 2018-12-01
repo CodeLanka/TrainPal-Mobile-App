@@ -1,1 +1,1 @@
-# TrainPal---Mobile-App
+# TrainPal-Mobile-App
