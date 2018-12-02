@@ -100,12 +100,20 @@
       "id": "DD8EE8DE-DFDD-43E1-AF9D-5C2467CCF192"
     },
     {
-      "class": "text",
-      "id": "C9741410-78E9-4B45-A57F-EF06D13DCD23"
+      "class": "oval",
+      "id": "AFFA9375-087B-4CD1-BE61-06096DC3DD06"
     },
     {
-      "class": "text",
-      "id": "44828ACE-1A15-4ED1-882A-39D3788FE84D"
+      "class": "oval",
+      "id": "889C75A1-0EA4-4920-B281-089D04C17A0B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C075422A-DFB5-411C-913B-2F46CD56DD0D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B8C05A04-23BB-4950-B95A-A265653A4B2A"
     }
   ],
   "name": "Tickets - onhold > expand",
@@ -135,7 +143,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

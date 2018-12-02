@@ -72,12 +72,12 @@
       "id": "1BA61891-C1F7-48F5-B1F5-516AF85EFBBB"
     },
     {
-      "class": "text",
-      "id": "407C9552-F0B4-4E5E-ADAF-158418C583C0"
+      "class": "shapeGroup",
+      "id": "00DFA9F5-E48B-40F4-A68C-0D8668D642B1"
     },
     {
-      "class": "text",
-      "id": "90A80871-2AA0-422B-9386-C956AA9EEF3F"
+      "class": "shapeGroup",
+      "id": "5A588653-8155-4ECC-850E-D0133397ECDD"
     },
     {
       "class": "text",
@@ -147,7 +147,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

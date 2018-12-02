@@ -127,10 +127,6 @@
     {
       "class": "text",
       "id": "07EE635D-3545-4E1E-99E9-47206BF5C2FA"
-    },
-    {
-      "class": "bitmap",
-      "id": "38505CEE-030A-490E-93FF-73A9F6FC152E"
     }
   ],
   "name": "MobileApp",
@@ -145,6 +141,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

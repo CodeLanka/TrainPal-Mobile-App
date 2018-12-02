@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Iceland-Regular",
-              "size": 12
+              "size": 16
             }
           },
           "paragraphStyle": {
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "978263"
+    "string": "No.978263"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,12 +52,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2B0E696F-D3B3-4ED5-8935-18BDAE3E0EFD",
-    "height": 12,
-    "width": 38,
-    "x": 266,
-    "y": 64
+    "height": 16,
+    "width": 72,
+    "x": 238,
+    "y": 12
   },
-  "glyphBounds": "{{0, 3}, {37, 6}}",
+  "glyphBounds": "{{1, 4}, {69, 8}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "978263",
+  "name": "No.978263",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -93,7 +93,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Iceland-Regular",
-            "size": 12
+            "size": 16
           }
         },
         "paragraphStyle": {

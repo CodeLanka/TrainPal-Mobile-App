@@ -80,12 +80,12 @@
       "id": "14E617A7-AAFA-49EB-BD56-1C8117FC10F8"
     },
     {
-      "class": "text",
-      "id": "C408D4B4-5A83-4B54-87BB-BCE8A0CAD3ED"
+      "class": "shapeGroup",
+      "id": "F4BD6ECD-7A77-428C-AFD5-94841E97617F"
     },
     {
-      "class": "text",
-      "id": "DF51A92A-E78D-4D78-8DD7-2F44E09B5352"
+      "class": "shapeGroup",
+      "id": "F6C73B59-BA45-4584-B10D-4FA1AF2C1809"
     }
   ],
   "name": "Tickets and Passes",
@@ -115,7 +115,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 2
     }
   },
   "verticalRulerData": {

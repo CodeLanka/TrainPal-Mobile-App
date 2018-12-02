@@ -17,7 +17,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B2849838-7CED-4589-BCBD-9749A7565D3C",
-    "height": 398,
+    "height": 501,
     "width": 328,
     "x": 16,
     "y": 131
@@ -60,24 +60,20 @@
       "id": "D2E71B85-E451-4162-B301-B3B33B8C7C4D"
     },
     {
-      "class": "symbolInstance",
-      "id": "3F86EAE1-04E0-4AEA-AFFB-355AB775AA32"
+      "class": "group",
+      "id": "4874DAEF-4D25-4438-A648-2A6048FAFF59"
     },
     {
-      "class": "text",
-      "id": "5AF731DC-F30A-4720-B411-841DB35F956C"
+      "class": "group",
+      "id": "F80A2A1D-9AE9-4E0B-88D4-4170EE6B9F9D"
     },
     {
-      "class": "text",
-      "id": "74248749-CF69-4ACC-990E-82D549649B66"
+      "class": "group",
+      "id": "4F83C0B2-9538-4FB7-819C-CD351F2153D9"
     },
     {
-      "class": "text",
-      "id": "22A6BAAE-7F9A-455C-8DDC-4FEF978E6D15"
-    },
-    {
-      "class": "text",
-      "id": "E4DBDBC9-BD60-4C2D-BE9A-E87D4A7E292C"
+      "class": "group",
+      "id": "2BB23AFD-61EE-43CE-A074-3580313D4625"
     },
     {
       "class": "text",
@@ -89,11 +85,55 @@
     },
     {
       "class": "text",
-      "id": "1AB278DD-A292-481A-9FB8-327A105C2A77"
+      "id": "996E1FDC-0A42-4C1B-8DDF-9CA6F1FCA131"
+    },
+    {
+      "class": "bitmap",
+      "id": "21FB8659-DF6D-41FF-B5D3-2BF27918BA10"
+    },
+    {
+      "class": "group",
+      "id": "9426FC4C-2B58-49BC-8187-DEE28C85C16A"
+    },
+    {
+      "class": "group",
+      "id": "DAB03366-9C5C-4DF8-AB0F-12296E12755F"
+    },
+    {
+      "class": "group",
+      "id": "E2DFBEF3-366B-4281-A9BB-CCC7153BA803"
     },
     {
       "class": "text",
-      "id": "996E1FDC-0A42-4C1B-8DDF-9CA6F1FCA131"
+      "id": "187A1937-AD49-4F96-8C03-5A2D287350A8"
+    },
+    {
+      "class": "text",
+      "id": "5A6020BD-CC0D-416D-9986-96C7498C84C4"
+    },
+    {
+      "class": "text",
+      "id": "CBAE4442-D566-4A8A-948E-6E6833C7A1C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "07A6E4C6-88D3-4AA2-9707-6DA582E64834"
+    },
+    {
+      "class": "text",
+      "id": "6B7D13A3-A7DA-4045-B447-0CEAE87FF90D"
+    },
+    {
+      "class": "text",
+      "id": "B4043EF8-A330-4379-B877-3C981E501261"
+    },
+    {
+      "class": "shapePath",
+      "id": "30C6345E-401F-4066-8AFE-DE059B7B3891"
+    },
+    {
+      "class": "text",
+      "id": "E4D80F11-DD11-4AEB-BC1F-F6D95EF0F5D8"
     }
   ],
   "name": "ticket-widget copy 4",

@@ -1,0 +1,201 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D01F19E8-E4FF-4979-BCB9-EDBFA98EBAF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 2.745964301088847,
+    "width": 26.814,
+    "x": 270.0299999999999,
+    "y": 0.8030356989111809
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "435C17F7-8FA4-4952-AC49-E69711318582"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1E2509C-1AE4-4777-991F-55B022112781"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD9A37FB-E0FA-4F04-A381-4DD871063A5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "125EF1EA-EDEC-49DC-A432-861ABE2E9892"
+    },
+    {
+      "class": "shapePath",
+      "id": "6074D08F-4101-4786-AFC5-1BB0672F12A6"
+    },
+    {
+      "class": "shapePath",
+      "id": "3683F78E-F252-4383-B421-496A6E7D00F1"
+    },
+    {
+      "class": "shapePath",
+      "id": "09550F8D-8BF8-4A80-8D54-35AD9D7E00D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "64B09562-26D1-446C-B4E9-CE8BB00369D2"
+    },
+    {
+      "class": "shapePath",
+      "id": "276FBEEA-81CD-48D4-93BF-0CA7DD70F05E"
+    },
+    {
+      "class": "shapePath",
+      "id": "C571F8D1-EC5D-4B92-985C-136BA9257AA9"
+    },
+    {
+      "class": "shapePath",
+      "id": "90D3B1C8-0C62-4233-9F8C-BDD3B16A4DFB"
+    },
+    {
+      "class": "shapePath",
+      "id": "4DAE74E5-DEE7-47C2-8DBB-11BB6F831F8F"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B3DB82E-105E-47BE-812A-123687296308"
+    },
+    {
+      "class": "shapePath",
+      "id": "F821E7F1-E593-480A-8BD3-B6606FC61359"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC5386B3-0B36-4492-98ED-C34F13A33D76"
+    },
+    {
+      "class": "shapePath",
+      "id": "5FB77F1C-0516-4625-800A-4F69E3635AA6"
+    },
+    {
+      "class": "shapePath",
+      "id": "E185B46E-2FA6-430B-B49A-D0BFBB662423"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FB41A81-4A29-45DD-B19D-5F68BA474306"
+    },
+    {
+      "class": "shapePath",
+      "id": "A28ED8A0-8D4C-4384-B462-CDC0CBEF998B"
+    },
+    {
+      "class": "shapePath",
+      "id": "4CB4F711-5AB7-4487-A4CE-818ABC90AD3F"
+    },
+    {
+      "class": "shapePath",
+      "id": "640DC37C-89E1-4107-84BC-6E2315D2381B"
+    },
+    {
+      "class": "shapePath",
+      "id": "7CB7AFC9-ADBC-4693-A877-AC5CDA439522"
+    },
+    {
+      "class": "shapePath",
+      "id": "6ED775BA-2B65-473D-BD10-56C9640FF3AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "10AEE994-EE6F-4C19-BF23-2932B67D386D"
+    },
+    {
+      "class": "shapePath",
+      "id": "A0368CB2-E3D0-4341-929D-F953C872F9EF"
+    },
+    {
+      "class": "shapePath",
+      "id": "2E6F01BD-50BC-4BA5-A884-D45AE741FABE"
+    }
+  ],
+  "name": "original_› ,xld ÿïßh fiajh_42332432 copy 9",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1098039215686274,
+          "green": 0.1098039215686274,
+          "red": 0.1098039215686274
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1098039215686274,
+          "green": 0.1098039215686274,
+          "red": 0.1098039215686274
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "FMMalithix",
+            "size": 3
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}
