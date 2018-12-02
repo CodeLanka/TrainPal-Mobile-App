@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "80E0DAAC-975C-452F-BCA3-FC609F4DFA5F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4,
+    "width": 357,
+    "x": -6,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B61A95C9-178B-4DF8-A01C-BD8782D9235E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6148DD5E-55B3-4D33-BB3A-C5A3766F406F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCC35040-F348-4E23-B28D-E4D901FDFA75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC777260-99EC-4CBE-9B53-EA141AECB463"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "182E747C-5D30-469A-A031-E4CB6C20D9D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "190AE39E-0021-4046-A7B7-47FC5B5EF4E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "373008AB-5E84-41D5-BA39-B4EA0405490E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "95F2A8F5-28FC-4DBF-8E78-91CFEC08755E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D7D81FA-BA4B-43A2-8341-450D17FBF086"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "234C88D7-B273-4C8E-8080-E30CCCB239D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D5B431D3-B50D-4132-A3CD-CEE170EA7020"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "524117FC-941A-4CBE-B0DF-799731B9222E"
+    }
+  ],
+  "name": "SLrailway watermarke Copy 9",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.06
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

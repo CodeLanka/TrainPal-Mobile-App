@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5BB3EAB-0E49-4DB2-8F85-592FC9BC54F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4,
+    "width": 447,
+    "x": -6,
+    "y": 247
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9F952F68-5577-4837-9C34-1ABD5178743E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C00B4436-D445-4E02-A722-5AE2B3397B61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B8AF8FC-7DC0-4272-9424-0E068367D9FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "665E73E0-F74C-44FD-B228-BDB8E7632FC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF35D2D7-D17A-4DE9-8EF8-43BDFD92B4D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F075A605-63A0-4CA0-9F4C-7215B99CEE7D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09DB5638-BFB0-4D10-8E29-40FA94E7EFB3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88812E1A-37EB-4D6D-A4EA-7DB0CA0B5ECE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0272D648-56B0-4BF9-A674-19CA9751C6D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "84149DE9-9435-42DB-9F54-659466CECB3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99359C21-D4A1-450C-8598-B1D4BC5D064A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "060B3D01-87E9-4051-AB9B-E067CB12F6B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C637217-BAFA-49C0-86D5-92B4EC5ACCC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "80175A21-1408-4220-8F90-363C34465F18"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87628D68-D49E-4D23-B496-27C45AD11EA1"
+    }
+  ],
+  "name": "SLrailway watermarke Copy 24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.06
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
