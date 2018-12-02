@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "83827C99-F5D5-4F82-AFCE-F9F62A2F66EC",
-    "height": 45,
+    "height": 84,
     "width": 10,
     "x": 0,
-    "y": 4
+    "y": 6
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "oval",

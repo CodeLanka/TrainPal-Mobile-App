@@ -37,7 +37,7 @@
     "y": 147
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,12 +68,44 @@
       "id": "804B0866-AAF8-4B18-8E79-8C98197A2B95"
     },
     {
+      "class": "bitmap",
+      "id": "21FB8659-DF6D-41FF-B5D3-2BF27918BA10"
+    },
+    {
       "class": "symbolInstance",
       "id": "3E57D4BB-AA51-4D80-9C3D-A22221B13ED3"
     },
     {
       "class": "group",
       "id": "9426FC4C-2B58-49BC-8187-DEE28C85C16A"
+    },
+    {
+      "class": "group",
+      "id": "DAB03366-9C5C-4DF8-AB0F-12296E12755F"
+    },
+    {
+      "class": "group",
+      "id": "E2DFBEF3-366B-4281-A9BB-CCC7153BA803"
+    },
+    {
+      "class": "text",
+      "id": "187A1937-AD49-4F96-8C03-5A2D287350A8"
+    },
+    {
+      "class": "text",
+      "id": "5A6020BD-CC0D-416D-9986-96C7498C84C4"
+    },
+    {
+      "class": "text",
+      "id": "CBAE4442-D566-4A8A-948E-6E6833C7A1C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "07A6E4C6-88D3-4AA2-9707-6DA582E64834"
+    },
+    {
+      "class": "text",
+      "id": "63BB0EF2-505C-4131-856D-29384D89D3D2"
     }
   ],
   "name": "Tickets - onhold > single-ticket >expand",

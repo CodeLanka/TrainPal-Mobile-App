@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3F86EAE1-04E0-4AEA-AFFB-355AB775AA32",
+  "do_objectID": "E2DFBEF3-366B-4281-A9BB-CCC7153BA803",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,27 +15,34 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 36,
-    "x": 22,
-    "y": 192
+    "height": 36,
+    "width": 58,
+    "x": 38,
+    "y": 473
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "element/train-no/long-v",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2A7D8B10-7E70-438C-A7A8-2911DD36483B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03BDFC58-28AC-4CF5-A109-E5F795540441"
+    }
   ],
+  "name": "seat-no",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -43,13 +50,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "000AAF2D-EA88-4570-B7EF-024188910C2B",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
-  "verticalSpacing": 0
+  }
 }

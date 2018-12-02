@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "457098DB-C291-4E26-AC17-1B62E5400F8C",
+  "do_objectID": "03BDFC58-28AC-4CF5-A109-E5F795540441",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "858ED60D-AA18-4D8E-B0B1-5F3945371012",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "04EC2D62-E49D-4F81-B34B-B705444F0CCB",
-    "height": 8,
-    "width": 11,
-    "x": 16,
-    "y": 0
+    "height": 19.18799999999999,
+    "width": 26.52000000000001,
+    "x": 15.50000000000021,
+    "y": 8.000000000000057
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,18 +31,14 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "B96D8430-3181-40A8-809E-5E63807DCC57"
+      "id": "017BB563-28A2-4277-BDE4-6214E2431EC8"
     },
     {
       "class": "shapePath",
-      "id": "605C2804-6B84-4066-A894-FFB4A0AF31C3"
-    },
-    {
-      "class": "shapePath",
-      "id": "5E36C252-44AC-4C42-BCED-4204B230F2E2"
+      "id": "F34F8168-F2B5-4F5F-AFA4-721A5812716C"
     }
   ],
-  "name": "nd",
+  "name": "32",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -52,7 +46,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E9E356BB-2EAA-49B7-B3DC-38C59607E952",
     "endMarkerType": 0,
     "fills": [
       {
@@ -60,9 +53,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,20 +69,19 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AA139B4C-BAF8-478A-BAF2-CD0B8055F81E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Avenir-Black",
-            "size": 14
+            "name": "Avenir-Medium",
+            "size": 26
           }
         },
         "paragraphStyle": {
@@ -102,27 +94,6 @@
       "verticalAlignment": 0
     },
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 10.752,
-            "enabled": 1,
-            "modelID": "constraint_dbe658f3-5dda-4f83-bdf8-3b72f2b81ccb",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 15.176
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_df1a4654-2108-496b-9651-8d5c43e62c7b",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
-      }
-    }
   },
   "windingRule": 1
 }

@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Avenir-Heavy",
-              "size": 16
+              "name": "FMMalithix",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -27,20 +27,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Ella"
+    "string": "› ,xld ÿïßh fiajh "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C7D68F41-42BA-4D0A-9059-492604D6EA07",
+  "do_objectID": "63BB0EF2-505C-4131-856D-29384D89D3D2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6032BD23-CA50-4E9C-BD58-2A33F7B1141D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C75EAF4C-5776-4D93-B4E9-DEB8ABA66E53",
-    "height": 22,
-    "width": 27,
-    "x": 18,
-    "y": 74
+    "height": 16,
+    "width": 131,
+    "x": 115,
+    "y": 92
   },
-  "glyphBounds": "{{1, 3}, {25, 14}}",
+  "glyphBounds": "{{0, 1}, {126, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Ella",
+  "name": "› ,xld ÿïßh fiajh",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,13 +72,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6D59E176-9BB6-425D-B5E2-CC11134C7D0B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0251A4EB-5164-44F0-BC6E-823BF75685F0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,8 +88,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Avenir-Heavy",
-            "size": 16
+            "name": "FMMalithix",
+            "size": 14
           }
         },
         "paragraphStyle": {
@@ -107,12 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }

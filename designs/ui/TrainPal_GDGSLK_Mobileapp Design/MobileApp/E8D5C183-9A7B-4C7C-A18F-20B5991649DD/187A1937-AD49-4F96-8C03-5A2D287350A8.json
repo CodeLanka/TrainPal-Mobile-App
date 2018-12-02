@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1098039215686274,
-            "green": 0.1098039215686274,
-            "red": 0.1098039215686274
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Avenir-Heavy",
+              "name": "FMMalithix",
               "size": 16
             }
           },
@@ -27,20 +27,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Ella"
+    "string": "fld<U fldgqj"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C7D68F41-42BA-4D0A-9059-492604D6EA07",
+  "do_objectID": "187A1937-AD49-4F96-8C03-5A2D287350A8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6032BD23-CA50-4E9C-BD58-2A33F7B1141D",
+    "do_objectID": "A110B34C-25EE-4E40-BE7B-0A3571C8EEAB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C75EAF4C-5776-4D93-B4E9-DEB8ABA66E53",
-    "height": 22,
-    "width": 27,
-    "x": 18,
-    "y": 74
+    "do_objectID": "8306E182-E1B0-4F58-8B47-1796EBF49C45",
+    "height": 17,
+    "width": 99,
+    "x": 56,
+    "y": 198
   },
-  "glyphBounds": "{{1, 3}, {25, 14}}",
+  "glyphBounds": "{{0, 2}, {98, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Ella",
+  "name": "fld<U fldgqj",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,25 +74,25 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6D59E176-9BB6-425D-B5E2-CC11134C7D0B",
+    "do_objectID": "3DFD4B29-E4B9-4A7B-B020-742FEB43DD02",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "0251A4EB-5164-44F0-BC6E-823BF75685F0",
+      "do_objectID": "6C57DC85-B5CE-4013-B210-C85F2DB178F7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1098039215686274,
-          "green": 0.1098039215686274,
-          "red": 0.1098039215686274
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Avenir-Heavy",
+            "name": "FMMalithix",
             "size": 16
           }
         },
