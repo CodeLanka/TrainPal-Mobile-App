@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43065D02-3ECF-4DC2-AF00-D0EAAA947B79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 740,
+    "width": 360,
+    "x": 9246,
+    "y": 147
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E0378D13-D138-4987-BEC5-D1800AB26BD5"
+    },
+    {
+      "class": "group",
+      "id": "8B9AAF58-BAA4-4C5A-9120-7A5ECCA8634C"
+    },
+    {
+      "class": "group",
+      "id": "AF1E07F5-A69A-48F0-90CC-6F2ACC3881E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "B61DB088-B8DC-4518-94BD-1C0F8F74677D"
+    },
+    {
+      "class": "text",
+      "id": "B6B1A90D-41C9-4910-8BB0-7F0142A35AFB"
+    },
+    {
+      "class": "text",
+      "id": "B660725D-35F3-450B-A437-6583D4E6F60D"
+    },
+    {
+      "class": "group",
+      "id": "CD1516FC-5C76-4855-AA30-032F6C5B006E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2494E481-6C3B-4F9A-9C1F-40436EB6A591"
+    },
+    {
+      "class": "text",
+      "id": "FB15DD77-11D7-4A17-80DA-B16300024CD8"
+    }
+  ],
+  "name": "details of the train journey ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 720,
+    "name": "Pixel 2 XL",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

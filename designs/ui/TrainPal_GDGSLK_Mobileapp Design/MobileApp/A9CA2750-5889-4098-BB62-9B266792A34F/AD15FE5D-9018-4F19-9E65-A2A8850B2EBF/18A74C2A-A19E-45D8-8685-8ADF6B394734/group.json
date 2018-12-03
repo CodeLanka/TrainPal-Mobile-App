@@ -66,12 +66,8 @@
       "id": "F1E3889F-F1EE-4406-BCA9-E2A495409121"
     },
     {
-      "class": "rectangle",
-      "id": "6CF7F28B-3A89-461B-B0CD-F22E8C9224DA"
-    },
-    {
-      "class": "text",
-      "id": "7F3303AD-6C5C-4CCB-AE62-6FC1365E9928"
+      "class": "group",
+      "id": "09FC30DF-FC7B-4123-80D2-F8266299FDC4"
     },
     {
       "class": "text",

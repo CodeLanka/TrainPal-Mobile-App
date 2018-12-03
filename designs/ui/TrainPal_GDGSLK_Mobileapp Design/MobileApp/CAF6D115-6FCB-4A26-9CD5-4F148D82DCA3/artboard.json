@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -78,10 +78,6 @@
     {
       "class": "symbolInstance",
       "id": "95DED481-045D-4A51-B721-2FC5DC7FB5C9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B5712EE9-01E2-484A-9221-4340D16B2C53"
     },
     {
       "class": "symbolInstance",
@@ -362,6 +358,10 @@
     {
       "class": "text",
       "id": "39AD7864-3F08-4427-86E1-9DB929BFB4CD"
+    },
+    {
+      "class": "group",
+      "id": "AFA8B508-C40F-49A1-890D-B3AD15BE3B1E"
     }
   ],
   "name": "main search screen > single result > Extra Stop Shawcase",
