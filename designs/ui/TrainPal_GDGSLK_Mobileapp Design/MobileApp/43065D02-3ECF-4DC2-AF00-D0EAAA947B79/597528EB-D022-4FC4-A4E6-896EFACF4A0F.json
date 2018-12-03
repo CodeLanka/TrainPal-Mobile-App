@@ -36,11 +36,10 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB15DD77-11D7-4A17-80DA-B16300024CD8",
+  "do_objectID": "597528EB-D022-4FC4-A4E6-896EFACF4A0F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E2AB5664-2BE1-488C-8F40-12A6BCF17106",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,11 +50,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CE06BEDC-1D2C-4430-ADEE-5F0750BAA275",
     "height": 19,
     "width": 55,
     "x": 56,
-    "y": 195
+    "y": 246
   },
   "glyphBounds": "{{1, 3}, {53, 12}}",
   "hasClippingMask": false,
@@ -66,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mathara",
+  "name": "Mathara Copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,13 +72,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "206210C0-2923-4DF5-9088-72F6A7C455D3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C6144CD2-C871-4602-8128-037720FCB851",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

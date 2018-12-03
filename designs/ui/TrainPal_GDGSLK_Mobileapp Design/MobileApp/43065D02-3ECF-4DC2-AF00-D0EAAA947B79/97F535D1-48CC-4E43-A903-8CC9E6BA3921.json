@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2902374565601349,
-            "green": 0.2901752889156342,
-            "red": 0.290221631526947
+            "blue": 0.796078431372549,
+            "green": 0.5176470588235295,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Avenir-Heavy",
-              "size": 14
+              "name": "Avenir-Roman",
+              "size": 10
             }
           },
           "paragraphStyle": {
@@ -31,16 +31,15 @@
         "location": 0
       }
     ],
-    "string": "Mathara"
+    "string": "5:35 am"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FB15DD77-11D7-4A17-80DA-B16300024CD8",
+  "do_objectID": "97F535D1-48CC-4E43-A903-8CC9E6BA3921",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "E2AB5664-2BE1-488C-8F40-12A6BCF17106",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -51,13 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CE06BEDC-1D2C-4430-ADEE-5F0750BAA275",
-    "height": 19,
-    "width": 55,
+    "height": 14,
+    "width": 36,
     "x": 56,
-    "y": 195
+    "y": 267
   },
-  "glyphBounds": "{{1, 3}, {53, 12}}",
+  "glyphBounds": "{{0, 2}, {36, 9}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mathara",
+  "name": "5:35 am copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -74,26 +72,24 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "206210C0-2923-4DF5-9088-72F6A7C455D3",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "C6144CD2-C871-4602-8128-037720FCB851",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2902374565601349,
-          "green": 0.2901752889156342,
-          "red": 0.290221631526947
+          "blue": 0.796078431372549,
+          "green": 0.5176470588235295,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Avenir-Heavy",
-            "size": 14
+            "name": "Avenir-Roman",
+            "size": 10
           }
         },
         "paragraphStyle": {
