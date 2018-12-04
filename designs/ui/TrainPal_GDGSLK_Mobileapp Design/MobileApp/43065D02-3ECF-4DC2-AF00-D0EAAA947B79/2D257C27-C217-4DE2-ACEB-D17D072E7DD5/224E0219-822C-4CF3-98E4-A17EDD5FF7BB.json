@@ -36,7 +36,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "97F535D1-48CC-4E43-A903-8CC9E6BA3921",
+  "do_objectID": "224E0219-822C-4CF3-98E4-A17EDD5FF7BB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,8 +52,8 @@
     "constrainProportions": false,
     "height": 14,
     "width": 36,
-    "x": 56,
-    "y": 267
+    "x": 0,
+    "y": 21
   },
   "glyphBounds": "{{0, 2}, {36, 9}}",
   "hasClippingMask": false,

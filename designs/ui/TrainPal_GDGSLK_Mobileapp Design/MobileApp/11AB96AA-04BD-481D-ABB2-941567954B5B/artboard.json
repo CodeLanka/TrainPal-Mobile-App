@@ -33,11 +33,11 @@
     "constrainProportions": false,
     "height": 740,
     "width": 360,
-    "x": 3266,
-    "y": 147
+    "x": 2806,
+    "y": 145
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

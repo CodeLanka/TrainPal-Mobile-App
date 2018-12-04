@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A66A7C77-E47A-4309-B90C-326E36205A21",
+  "do_objectID": "E2423CBC-CD69-4B03-9A06-AE22D8C98060",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8,
-    "width": 180,
-    "x": 180,
-    "y": 144
+    "height": 420,
+    "width": 697,
+    "x": 1069,
+    "y": 114
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -29,9 +29,9 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 2",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [

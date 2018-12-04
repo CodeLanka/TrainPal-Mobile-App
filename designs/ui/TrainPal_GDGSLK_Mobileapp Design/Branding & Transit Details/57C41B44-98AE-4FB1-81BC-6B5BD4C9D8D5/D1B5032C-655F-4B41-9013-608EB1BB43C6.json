@@ -16,27 +16,58 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Quantify",
-              "size": 36
+              "name": "Avenir-Heavy",
+              "size": 45
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 50,
+            "minimumLineHeight": 50
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 13,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.07450980392156856,
+            "green": 0.7098039215686275,
+            "red": 0.984313725490196
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Avenir-Heavy",
+              "size": 45
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 50,
+            "minimumLineHeight": 50
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 7,
+        "location": 13
       }
     ],
-    "string": "<codejobs/>"
+    "string": "Hassle free \ncommute"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "07EE635D-3545-4E1E-99E9-47206BF5C2FA",
+  "do_objectID": "D1B5032C-655F-4B41-9013-608EB1BB43C6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +81,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 185,
-    "x": 83,
-    "y": 17
+    "height": 100,
+    "width": 246,
+    "x": 1112,
+    "y": 216
   },
-  "glyphBounds": "{{1, 5}, {183, 37}}",
+  "glyphBounds": "{{1, 4}, {230, 86}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "<codejobs/>",
+  "name": "Hassle free commute",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -88,14 +119,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Quantify",
-            "size": 36
+            "name": "Avenir-Heavy",
+            "size": 45
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 50,
+          "minimumLineHeight": 50
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -134,6 +134,10 @@
     {
       "class": "shapePath",
       "id": "7AD863CA-4BA7-410B-AE28-4467435D4FCB"
+    },
+    {
+      "class": "shapePath",
+      "id": "C900B657-3277-4299-B373-1C50DC516F60"
     }
   ],
   "name": "Land",

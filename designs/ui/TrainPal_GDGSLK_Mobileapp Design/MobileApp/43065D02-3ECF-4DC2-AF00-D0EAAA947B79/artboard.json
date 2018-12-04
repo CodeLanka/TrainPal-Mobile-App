@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 740,
     "width": 360,
-    "x": 9246,
-    "y": 147
+    "x": 8786,
+    "y": 145
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,8 +75,16 @@
       "id": "CD1516FC-5C76-4855-AA30-032F6C5B006E"
     },
     {
+      "class": "shapePath",
+      "id": "E3156711-FFA8-4F2C-B48E-519F492820F5"
+    },
+    {
       "class": "shapeGroup",
       "id": "2494E481-6C3B-4F9A-9C1F-40436EB6A591"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57FFFBE0-70CD-46D0-AAEB-14241B0E4B9E"
     },
     {
       "class": "text",
@@ -87,12 +95,12 @@
       "id": "0208A17E-726E-42C3-A703-F9F7757663B9"
     },
     {
-      "class": "text",
-      "id": "597528EB-D022-4FC4-A4E6-896EFACF4A0F"
+      "class": "group",
+      "id": "6F638778-AF0A-468F-B280-E6F0BF782541"
     },
     {
-      "class": "text",
-      "id": "97F535D1-48CC-4E43-A903-8CC9E6BA3921"
+      "class": "group",
+      "id": "2D257C27-C217-4DE2-ACEB-D17D072E7DD5"
     }
   ],
   "name": "details of the train journey ",
@@ -117,6 +125,10 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": -1
     }

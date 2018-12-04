@@ -1,11 +1,10 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 2,
   "clippingMaskMode": 0,
-  "do_objectID": "2494E481-6C3B-4F9A-9C1F-40436EB6A591",
+  "do_objectID": "61841A53-1983-49D2-8236-BA9CDFCC7184",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D99B9834-D10F-4CA4-BED6-91D2DD822CD0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B8787097-1F92-408C-B17A-01C4D9D26B2B",
-    "height": 64,
-    "width": 10,
-    "x": 38,
-    "y": 199
+    "height": 59,
+    "width": 59,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,11 +31,11 @@
   "layers": [
     {
       "class": "oval",
-      "id": "A500954F-9F04-42DC-9E11-FC42D28ECA90"
+      "id": "5F3412ED-BAE4-4A49-BC3C-01D67817FA13"
     },
     {
       "class": "oval",
-      "id": "7B4A0D0D-213A-4D89-89DC-705DAA26B946"
+      "id": "CC078627-B461-449C-A8AB-B620A2940722"
     }
   ],
   "name": "Combined Shape",
@@ -48,23 +46,30 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": false,
+      "lineCapStyle": 1,
+      "lineJoinStyle": 1
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.9704850919712108,
+          "green": 0.9704850919712108,
+          "red": 0.9725765306122449
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 0,
-        "thickness": 2
+        "thickness": 10
       }
     ],
-    "do_objectID": "E73416EA-85DB-41BF-9C07-7350077778C7",
     "endMarkerType": 0,
     "fills": [
       {

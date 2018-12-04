@@ -129,6 +129,22 @@
     {
       "class": "oval",
       "id": "049D85CC-D445-426F-B1BA-DCED81447314"
+    },
+    {
+      "class": "rectangle",
+      "id": "E2423CBC-CD69-4B03-9A06-AE22D8C98060"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2DB3871B-3D5E-4BE7-B0D3-4B96EA2F7EE1"
+    },
+    {
+      "class": "shapePath",
+      "id": "B73343A2-8E00-4080-85C6-C1CDED31256A"
+    },
+    {
+      "class": "text",
+      "id": "D1B5032C-655F-4B41-9013-608EB1BB43C6"
     }
   ],
   "name": "Road Classes",

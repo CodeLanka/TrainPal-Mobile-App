@@ -1,11 +1,12 @@
 {
-  "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "_class": "shapePath",
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "2494E481-6C3B-4F9A-9C1F-40436EB6A591",
+  "do_objectID": "E3156711-FFA8-4F2C-B48E-519F492820F5",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D99B9834-D10F-4CA4-BED6-91D2DD822CD0",
+    "do_objectID": "CBF8EACA-C9F4-4117-BB7C-88E868342FA6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,32 +17,45 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B8787097-1F92-408C-B17A-01C4D9D26B2B",
-    "height": 64,
-    "width": 10,
-    "x": 38,
-    "y": 199
+    "do_objectID": "FBD9A056-6CA9-4773-BBD7-E4CF74D60B7F",
+    "height": 625,
+    "width": 2,
+    "x": 42.5,
+    "y": 210
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Line",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "oval",
-      "id": "A500954F-9F04-42DC-9E11-FC42D28ECA90"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.25000000000000039, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.25000000000000039, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.25000000000000039, 0}"
     },
     {
-      "class": "oval",
-      "id": "7B4A0D0D-213A-4D89-89DC-705DAA26B946"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.25000000000000028, 0.025523809523809341}",
+      "curveMode": 1,
+      "curveTo": "{0.25000000000000028, 0.025523809523809341}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.25, 0.99891350479029939}"
     }
   ],
-  "name": "Combined Shape",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -64,7 +78,6 @@
         "thickness": 2
       }
     ],
-    "do_objectID": "E73416EA-85DB-41BF-9C07-7350077778C7",
     "endMarkerType": 0,
     "fills": [
       {
@@ -93,6 +106,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "windingRule": 0
+  }
 }

@@ -2,10 +2,9 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2494E481-6C3B-4F9A-9C1F-40436EB6A591",
+  "do_objectID": "57FFFBE0-70CD-46D0-AAEB-14241B0E4B9E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D99B9834-D10F-4CA4-BED6-91D2DD822CD0",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B8787097-1F92-408C-B17A-01C4D9D26B2B",
     "height": 64,
     "width": 10,
     "x": 38,
-    "y": 199
+    "y": 301
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,14 +31,14 @@
   "layers": [
     {
       "class": "oval",
-      "id": "A500954F-9F04-42DC-9E11-FC42D28ECA90"
+      "id": "862CBB58-71B5-42E7-B9A6-369EAA247FB4"
     },
     {
       "class": "oval",
-      "id": "7B4A0D0D-213A-4D89-89DC-705DAA26B946"
+      "id": "F5847EB7-1AB8-4D8C-A9BA-639ABEF6C60E"
     }
   ],
-  "name": "Combined Shape",
+  "name": "Combined Shape Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,7 +62,6 @@
         "thickness": 2
       }
     ],
-    "do_objectID": "E73416EA-85DB-41BF-9C07-7350077778C7",
     "endMarkerType": 0,
     "fills": [
       {

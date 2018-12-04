@@ -9,14 +9,14 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6079225540161133,
-            "green": 0.6078033447265625,
-            "red": 0.6078922152519226
+            "blue": 0.07450980392156856,
+            "green": 0.494954177323103,
+            "red": 0.984313725490196
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Avenir-Heavy",
+              "name": "Avenir-Medium",
               "size": 12
             }
           },
@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "to:"
+    "string": "07:32 am"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AE8D6129-474B-4A3B-BED2-614B2C2F513B",
+  "do_objectID": "ADB9ECD3-5406-4989-AB4E-7795BA5F802A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,20 +51,20 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 16,
-    "x": 16,
-    "y": 9
+    "width": 50,
+    "x": 34,
+    "y": 13
   },
-  "glyphBounds": "{{0, 4}, {15, 9}}",
+  "glyphBounds": "{{0, 3}, {49, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "to:",
+  "name": "07:32 am",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,14 +81,14 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6079225540161133,
-          "green": 0.6078033447265625,
-          "red": 0.6078922152519226
+          "blue": 0.07450980392156856,
+          "green": 0.494954177323103,
+          "red": 0.984313725490196
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Avenir-Heavy",
+            "name": "Avenir-Medium",
             "size": 12
           }
         },

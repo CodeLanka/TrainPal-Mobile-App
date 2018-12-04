@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "Mathara"
+    "string": "Mirissa"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "597528EB-D022-4FC4-A4E6-896EFACF4A0F",
+  "do_objectID": "087DE9A6-6575-4938-9039-1A3959C0EA51",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 55,
-    "x": 56,
-    "y": 246
+    "width": 46,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 3}, {53, 12}}",
+  "glyphBounds": "{{1, 3}, {44, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Mathara Copy",
+  "name": "Mirissa",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
