@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30.00000000000001,
+    "height": 34,
     "width": 59,
     "x": 1536,
-    "y": 469
+    "y": 465
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -36,6 +36,14 @@
     {
       "class": "shapeGroup",
       "id": "61841A53-1983-49D2-8236-BA9CDFCC7184"
+    },
+    {
+      "class": "oval",
+      "id": "C07E3758-A352-45A3-B9D0-B96DF99C7044"
+    },
+    {
+      "class": "oval",
+      "id": "D9EEEA3C-64FA-4E8A-A2C0-E1929B9085CB"
     }
   ],
   "name": "Combined Shape",

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-BlackItalic",
+              "name": "CircularStd-BlackItalic",
               "size": 26
             }
           },
@@ -44,7 +44,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "SFProDisplay-BlackItalic",
+              "name": "CircularStd-BlackItalic",
               "size": 26
             }
           },
@@ -81,12 +81,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "69A34BAA-8B75-4569-AA0F-95F1006CA8D3",
-    "height": 31,
-    "width": 106,
+    "height": 33,
+    "width": 104,
     "x": 35,
     "y": 0
   },
-  "glyphBounds": "{{2, 5}, {106, 25}}",
+  "glyphBounds": "{{1, 6}, {103, 25}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -121,7 +121,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "SFProDisplay-BlackItalic",
+            "name": "CircularStd-BlackItalic",
             "size": 26
           }
         },

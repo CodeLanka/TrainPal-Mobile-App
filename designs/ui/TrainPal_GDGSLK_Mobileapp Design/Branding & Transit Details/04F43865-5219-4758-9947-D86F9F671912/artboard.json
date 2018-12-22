@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 500,
     "width": 500,
-    "x": 1370,
-    "y": -390
+    "x": -536,
+    "y": 387
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -68,6 +68,11 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": -1
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

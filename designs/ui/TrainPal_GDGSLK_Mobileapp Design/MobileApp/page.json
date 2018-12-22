@@ -69,14 +69,6 @@
       "id": "CAF6D115-6FCB-4A26-9CD5-4F148D82DCA3"
     },
     {
-      "class": "rectangle",
-      "id": "EDF8E18E-6150-4FF8-BD26-E9B3EBB68D11"
-    },
-    {
-      "class": "rectangle",
-      "id": "8426A88B-2D66-4207-A5D7-1C1A89C27BE0"
-    },
-    {
       "class": "artboard",
       "id": "11AB96AA-04BD-481D-ABB2-941567954B5B"
     },
@@ -129,12 +121,28 @@
       "id": "E8D5C183-9A7B-4C7C-A18F-20B5991649DD"
     },
     {
-      "class": "bitmap",
-      "id": "E5323448-A539-4F4A-80CB-58ECE7C75BB9"
+      "class": "artboard",
+      "id": "43065D02-3ECF-4DC2-AF00-D0EAAA947B79"
     },
     {
       "class": "artboard",
-      "id": "43065D02-3ECF-4DC2-AF00-D0EAAA947B79"
+      "id": "08046F5E-00B7-4A0F-A781-B413DA2E5E92"
+    },
+    {
+      "class": "artboard",
+      "id": "16BA106C-FBB2-44B7-812C-336E8E2FB128"
+    },
+    {
+      "class": "artboard",
+      "id": "89B00AF9-8287-453D-B33C-D6F9216B46CE"
+    },
+    {
+      "class": "rectangle",
+      "id": "EDF8E18E-6150-4FF8-BD26-E9B3EBB68D11"
+    },
+    {
+      "class": "rectangle",
+      "id": "8426A88B-2D66-4207-A5D7-1C1A89C27BE0"
     }
   ],
   "name": "MobileApp",

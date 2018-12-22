@@ -135,12 +135,20 @@
       "id": "E2423CBC-CD69-4B03-9A06-AE22D8C98060"
     },
     {
+      "class": "rectangle",
+      "id": "9B4611BA-6283-4BB5-B074-C896BDC67B59"
+    },
+    {
       "class": "shapeGroup",
       "id": "2DB3871B-3D5E-4BE7-B0D3-4B96EA2F7EE1"
     },
     {
       "class": "shapePath",
       "id": "B73343A2-8E00-4080-85C6-C1CDED31256A"
+    },
+    {
+      "class": "group",
+      "id": "48BDE9CD-1067-4357-A736-687278AD3177"
     },
     {
       "class": "text",

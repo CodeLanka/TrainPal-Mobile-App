@@ -85,6 +85,10 @@
       "id": "A34E1EBC-6DE0-4916-B73B-5F12D3007DF8"
     },
     {
+      "class": "rectangle",
+      "id": "9DC2EBD1-DEC9-48F8-A8A0-1566C71EBB2B"
+    },
+    {
       "class": "group",
       "id": "A81C473C-F5A2-4195-A910-1EAD86FC450B"
     },
@@ -95,6 +99,30 @@
     {
       "class": "artboard",
       "id": "04F43865-5219-4758-9947-D86F9F671912"
+    },
+    {
+      "class": "bitmap",
+      "id": "6B94582C-F309-4FA3-846D-8BBB121F8498"
+    },
+    {
+      "class": "bitmap",
+      "id": "A5DC5237-3429-478C-83D9-627B2BE970E3"
+    },
+    {
+      "class": "bitmap",
+      "id": "B5312250-57B1-430D-AA05-DF0C851261E4"
+    },
+    {
+      "class": "bitmap",
+      "id": "4CADFB94-8FA3-498A-B07A-006A6F0F29E8"
+    },
+    {
+      "class": "rectangle",
+      "id": "3B4DA0EE-BE69-45DA-BC7A-1E36E624B6F8"
+    },
+    {
+      "class": "group",
+      "id": "762E3152-D0AF-4D80-9F92-2AD3A0004644"
     }
   ],
   "name": "Branding & Transit Details",
