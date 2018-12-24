@@ -137,12 +137,40 @@
       "id": "89B00AF9-8287-453D-B33C-D6F9216B46CE"
     },
     {
+      "class": "artboard",
+      "id": "9F994064-7AB7-4A0B-BC3F-A7FC4C56DF0E"
+    },
+    {
+      "class": "artboard",
+      "id": "7906603F-679B-4F8A-88F8-7AFD0B9433BB"
+    },
+    {
+      "class": "artboard",
+      "id": "F49991E7-2070-47EA-9E49-67BEDE9D5CA9"
+    },
+    {
       "class": "rectangle",
       "id": "EDF8E18E-6150-4FF8-BD26-E9B3EBB68D11"
     },
     {
       "class": "rectangle",
       "id": "8426A88B-2D66-4207-A5D7-1C1A89C27BE0"
+    },
+    {
+      "class": "bitmap",
+      "id": "F1351C68-35F9-4C3E-97DF-33E87E0A1CFC"
+    },
+    {
+      "class": "text",
+      "id": "593FCF59-BB8B-46C6-A4C6-627350174DA9"
+    },
+    {
+      "class": "bitmap",
+      "id": "D388F5F7-8DC8-4079-B110-C6697923D0BD"
+    },
+    {
+      "class": "text",
+      "id": "751AC49E-3463-4CBD-983A-626B398853C1"
     }
   ],
   "name": "MobileApp",

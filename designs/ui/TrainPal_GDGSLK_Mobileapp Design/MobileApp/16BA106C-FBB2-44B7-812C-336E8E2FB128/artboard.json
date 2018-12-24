@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": -1654,
-    "y": 145
+    "x": -2314,
+    "y": 147
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -44,11 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
       "id": "BBB1B3EB-04DD-4BBE-A577-EA49A4BEA8D0"
+    },
+    {
+      "class": "group",
+      "id": "FF60D3ED-B167-4E3C-911A-4CEC3EE0E2D2"
     },
     {
       "class": "shapePath",
@@ -67,8 +71,60 @@
       "id": "F4A3F3B7-961B-40D9-90D2-1C98E3E21415"
     },
     {
-      "class": "shapePath",
-      "id": "6C1A3340-882A-4614-B783-18D77169CAF5"
+      "class": "rectangle",
+      "id": "46A1F6F8-E786-45D2-BD25-29FD61B82272"
+    },
+    {
+      "class": "oval",
+      "id": "32A5FCEF-FCB7-42FD-B46D-BCFA587645E4"
+    },
+    {
+      "class": "oval",
+      "id": "2B19E661-D585-4CB1-A6EC-0FE157A78AEF"
+    },
+    {
+      "class": "oval",
+      "id": "D5B09B8E-2DF7-4DF5-8A5A-F66E89F0D44F"
+    },
+    {
+      "class": "oval",
+      "id": "FD699EB9-652C-466B-88E0-F47431183A5E"
+    },
+    {
+      "class": "oval",
+      "id": "C6FCF835-A8B4-4147-851B-C08504C1C44A"
+    },
+    {
+      "class": "oval",
+      "id": "9BEA027B-43D2-40F0-927B-9D2759975B1D"
+    },
+    {
+      "class": "oval",
+      "id": "A8FF751E-090D-474F-8D6D-8607B9AAA17D"
+    },
+    {
+      "class": "oval",
+      "id": "89D3EAF6-A778-4809-BD58-0F00BF943BA0"
+    },
+    {
+      "class": "oval",
+      "id": "B39CF37D-9A38-4EB2-B5AD-BB9165AC62D4"
+    },
+    {
+      "class": "oval",
+      "id": "D02D155F-285E-4093-A5C1-B7489BC229D2"
+    },
+    {
+      "class": "oval",
+      "id": "4F0B11DF-DE00-460B-819E-52AF64D2428A"
+    },
+    {
+      "class": "group",
+      "id": "255EF6E6-970B-45F6-B30D-3DE617C8AA81"
+    },
+    {
+      "class": "text",
+      "id": "F6423F79-3455-484C-8BE2-FE2426707459"
     }
   ],
   "name": "Splash Screen - 2nd",
@@ -93,6 +149,10 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": -1
     }

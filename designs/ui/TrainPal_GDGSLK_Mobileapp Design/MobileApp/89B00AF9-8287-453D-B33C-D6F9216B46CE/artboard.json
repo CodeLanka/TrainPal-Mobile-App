@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": -1194,
-    "y": 145
+    "x": -1854,
+    "y": 147
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -51,19 +51,31 @@
       "id": "C279C63F-74A8-47FB-AB68-567F11734A60"
     },
     {
-      "class": "shapePath",
-      "id": "42368B51-F498-4708-B969-B895594C0AFD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "66272021-74D5-4AED-A1C5-8E8609520166"
+      "class": "group",
+      "id": "128C6B61-B3A6-4711-94CB-8F54534FB142"
     },
     {
       "class": "shapeGroup",
       "id": "38B7EA44-017E-4E55-A7B7-A15C9C064355"
+    },
+    {
+      "class": "text",
+      "id": "747F6051-66E7-4609-89E4-F0137AD6D03D"
+    },
+    {
+      "class": "text",
+      "id": "235AB6D5-D296-4483-92DA-9D8BE6B05C56"
+    },
+    {
+      "class": "text",
+      "id": "ED57EBF1-A8F7-4B7E-BAA8-A80C4E5D68D1"
+    },
+    {
+      "class": "group",
+      "id": "F1F69B7A-9614-458E-8CD1-23DEC97E6D6C"
     }
   ],
-  "name": "Splash Screen - 3rd",
+  "name": "Onboarding -1",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -85,6 +97,10 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": -1
     }

@@ -19,8 +19,8 @@
     "do_objectID": "88B7700F-0FFC-4EEE-ADBB-023CF9066213",
     "height": 326,
     "width": 258,
-    "x": 51,
-    "y": 243
+    "x": 153,
+    "y": 214
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -126,6 +126,10 @@
     {
       "class": "group",
       "id": "0790CA47-3AF1-48A7-8183-ED484A405F86"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C1A3340-882A-4614-B783-18D77169CAF5"
     }
   ],
   "name": "train",
