@@ -144,7 +144,9 @@
   },
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "com.animaapp.uses.anima": 1
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
     }
   },
   "verticalRulerData": {

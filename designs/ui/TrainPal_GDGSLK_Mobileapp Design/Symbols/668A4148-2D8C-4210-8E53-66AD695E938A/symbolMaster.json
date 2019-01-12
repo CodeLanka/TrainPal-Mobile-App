@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 13,
+  "changeIdentifier": 14,
   "clippingMaskMode": 0,
   "do_objectID": "668A4148-2D8C-4210-8E53-66AD695E938A",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 525
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -69,6 +69,10 @@
   },
   "symbolID": "AA7AB058-FDE6-4799-A748-B6389DBC9914",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }
