@@ -88,6 +88,10 @@
     },
     {
       "class": "group",
+      "id": "D37E5625-27A8-4A4C-A115-C690B92428DF"
+    },
+    {
+      "class": "group",
       "id": "DF2E042E-0B68-492D-86EF-2F3D523EBBCE"
     },
     {
@@ -162,7 +166,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

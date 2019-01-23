@@ -53,12 +53,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "24C854CC-B17C-422C-9158-A84813302CE4"
-    },
     {
       "class": "symbolInstance",
       "id": "0A8780FE-DFB9-462F-A8A8-A9E3BCFC815B"
@@ -78,6 +74,10 @@
     {
       "class": "group",
       "id": "43ACF20B-32D3-4D88-A135-62F2B95B7038"
+    },
+    {
+      "class": "group",
+      "id": "B8032E2F-4DE0-49D6-94CD-35750382DC04"
     }
   ],
   "name": "share-information",
@@ -107,7 +107,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

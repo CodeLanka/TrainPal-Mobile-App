@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -90,6 +90,10 @@
     {
       "class": "group",
       "id": "A6BEA0D2-0611-431A-8C4D-68075B441614"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCB7B5DF-96D9-4096-B521-5A44FA846639"
     },
     {
       "class": "shapeGroup",
@@ -172,16 +176,16 @@
       "id": "A99665F4-CC5E-4570-9474-6C4DEF74EED8"
     },
     {
-      "class": "group",
-      "id": "BBB77463-B5F7-477D-9BC5-2B96258CCAE1"
-    },
-    {
       "class": "text",
       "id": "7E105998-E7DA-49CD-81B0-984151E1EB8B"
     },
     {
       "class": "group",
       "id": "326A85C4-235D-4FE1-9CC4-8508D8A331A9"
+    },
+    {
+      "class": "group",
+      "id": "8EA6E929-0C95-48B0-B813-1DA12B24EDD6"
     }
   ],
   "name": "Itineraries - Scheduled",
@@ -211,7 +215,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

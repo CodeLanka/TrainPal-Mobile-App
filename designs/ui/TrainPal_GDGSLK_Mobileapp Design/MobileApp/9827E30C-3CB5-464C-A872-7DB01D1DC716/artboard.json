@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -366,6 +366,10 @@
     {
       "class": "group",
       "id": "7600C9C7-2265-4843-B61E-A51237104BAC"
+    },
+    {
+      "class": "group",
+      "id": "E10B9E01-7BFF-46FF-A77C-705D7D37651B"
     }
   ],
   "name": "main search screen > single result",
@@ -395,7 +399,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {

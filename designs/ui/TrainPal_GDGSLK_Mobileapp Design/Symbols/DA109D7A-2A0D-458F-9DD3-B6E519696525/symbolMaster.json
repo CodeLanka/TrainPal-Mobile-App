@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 179,
+  "changeIdentifier": 180,
   "clippingMaskMode": 0,
   "do_objectID": "DA109D7A-2A0D-458F-9DD3-B6E519696525",
   "exportOptions": {
@@ -69,6 +69,10 @@
   },
   "symbolID": "4226EC40-B258-4608-BEF7-E409374B4B79",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "io.magicsketch.mirror": {
       "highestQuality": 1
     }

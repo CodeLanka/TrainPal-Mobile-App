@@ -33,8 +33,8 @@
     "constrainProportions": false,
     "height": 720,
     "width": 360,
-    "x": -474,
-    "y": 147
+    "x": -984,
+    "y": 145
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -111,7 +111,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": -1
+      "highestQuality": 1
     }
   },
   "verticalRulerData": {
