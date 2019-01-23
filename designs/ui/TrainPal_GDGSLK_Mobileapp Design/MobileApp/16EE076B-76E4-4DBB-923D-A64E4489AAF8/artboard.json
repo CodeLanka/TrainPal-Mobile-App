@@ -57,7 +57,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -352,10 +352,6 @@
       "id": "60927343-4F5E-4FCB-AC1A-A0FF545806C4"
     },
     {
-      "class": "group",
-      "id": "3E1120E3-E83E-4AE5-8E33-276AF655875B"
-    },
-    {
       "class": "text",
       "id": "01107814-B74B-485B-9FB7-33176B6B7E87"
     },
@@ -366,6 +362,18 @@
     {
       "class": "group",
       "id": "352E81BF-A534-406C-9A9D-3BCF7EFE7358"
+    },
+    {
+      "class": "rectangle",
+      "id": "B4147FE2-9FDB-47F7-89F5-DFE0CEE52787"
+    },
+    {
+      "class": "rectangle",
+      "id": "E0A93090-2B2B-4020-9E66-11911DDF8556"
+    },
+    {
+      "class": "group",
+      "id": "3E1120E3-E83E-4AE5-8E33-276AF655875B"
     },
     {
       "class": "group",
@@ -400,7 +408,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {

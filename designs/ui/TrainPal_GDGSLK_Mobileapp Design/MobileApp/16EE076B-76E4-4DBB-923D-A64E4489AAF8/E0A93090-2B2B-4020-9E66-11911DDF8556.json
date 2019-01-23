@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DB0A014F-CBC3-4C27-8406-FA7D898DCD0F",
+  "do_objectID": "E0A93090-2B2B-4020-9E66-11911DDF8556",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C00CFCE8-1C24-4F2F-A753-91EAA662E811",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,14 +14,15 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 13.5,
+  "fixedRadius": 20,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 27,
-    "width": 103,
+    "do_objectID": "7D062D27-5F77-472F-BFA2-8EAEB82C755B",
+    "height": 251,
+    "width": 360,
     "x": 0,
-    "y": 12
+    "y": 927
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,13 +33,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 2",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 13.5,
+      "cornerRadius": 20,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -47,7 +49,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 13.5,
+      "cornerRadius": 20,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -57,7 +59,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 13.5,
+      "cornerRadius": 0,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -67,7 +69,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 13.5,
+      "cornerRadius": 0,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -98,6 +100,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "3961B171-2E0C-4005-B0A7-EF871171146D",
     "endMarkerType": 0,
     "fills": [
       {
@@ -134,9 +137,9 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
-        "offsetY": 2,
+        "offsetY": -2,
         "spread": 0
       }
     ],

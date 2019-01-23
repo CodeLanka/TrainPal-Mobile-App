@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Avenir-Heavy",
-              "size": 12
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -54,12 +54,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EB8A99DF-C883-4244-9C7B-53551A35BB9E",
-    "height": 15,
+    "height": 30,
     "width": 94,
-    "x": 5,
-    "y": 6
+    "x": 0,
+    "y": 57
   },
-  "glyphBounds": "{{3, 1}, {87, 13}}",
+  "glyphBounds": "{{17, 1}, {60, 30}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Avenir-Heavy",
-            "size": 12
+            "size": 14
           }
         },
         "paragraphStyle": {

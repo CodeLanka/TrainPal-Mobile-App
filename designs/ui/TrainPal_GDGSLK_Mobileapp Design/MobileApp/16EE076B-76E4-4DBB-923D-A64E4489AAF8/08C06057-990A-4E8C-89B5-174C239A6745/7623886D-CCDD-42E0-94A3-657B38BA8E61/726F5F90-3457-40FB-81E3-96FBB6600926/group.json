@@ -19,7 +19,7 @@
     "do_objectID": "EF335C34-43AC-4A45-B4C5-4CAD1E23F47D",
     "height": 45,
     "width": 45,
-    "x": 133,
+    "x": 24,
     "y": 0
   },
   "hasClickThrough": false,
@@ -51,6 +51,28 @@
     "do_objectID": "019C4200-F0D4-40EF-8738-0BCEA7C8971F",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

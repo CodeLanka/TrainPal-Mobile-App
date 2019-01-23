@@ -56,8 +56,8 @@
     "do_objectID": "90DC4648-AF23-4DA1-BC09-11DB14066D11",
     "height": 30,
     "width": 60,
-    "x": 2,
-    "y": 76
+    "x": 0,
+    "y": 56
   },
   "glyphBounds": "{{0, 1}, {59, 27}}",
   "hasClippingMask": false,
@@ -65,7 +65,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Train-line block",
