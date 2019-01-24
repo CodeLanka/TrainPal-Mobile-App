@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 36,
+        "length": 35,
         "location": 0
       }
     ],
-    "string": "Things are limited with out internet"
+    "string": "Things are limited without internet"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 223,
-    "x": 69,
-    "y": 632
+    "width": 220,
+    "x": 70,
+    "y": 630
   },
-  "glyphBounds": "{{0, 3}, {223, 15}}",
+  "glyphBounds": "{{0, 3}, {219, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

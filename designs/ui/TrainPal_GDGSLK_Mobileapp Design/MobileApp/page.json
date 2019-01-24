@@ -42,7 +42,19 @@
     },
     {
       "class": "artboard",
+      "id": "82F6AACE-2E22-42D2-AD8A-AB02DEF64433"
+    },
+    {
+      "class": "artboard",
       "id": "C2F03B30-14B2-4620-85DC-645CEE2EC325"
+    },
+    {
+      "class": "artboard",
+      "id": "55460098-E2EE-4959-9123-A12DC4D7DC59"
+    },
+    {
+      "class": "artboard",
+      "id": "D8418076-FB1E-4752-BCE5-EFF3D2BD5E49"
     },
     {
       "class": "artboard",
@@ -171,6 +183,10 @@
     {
       "class": "text",
       "id": "751AC49E-3463-4CBD-983A-626B398853C1"
+    },
+    {
+      "class": "bitmap",
+      "id": "9C22FC23-2364-4E2F-84BE-2B2DC2898FD5"
     }
   ],
   "name": "MobileApp",

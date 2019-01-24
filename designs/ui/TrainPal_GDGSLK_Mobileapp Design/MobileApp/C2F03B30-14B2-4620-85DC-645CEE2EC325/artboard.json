@@ -144,12 +144,8 @@
       "id": "ED475044-4253-4845-B47C-8B9EDA352792"
     },
     {
-      "class": "shapeGroup",
-      "id": "E66ADAD8-37AE-4B1A-91ED-5AA4365C4576"
-    },
-    {
-      "class": "shapePath",
-      "id": "6C6BD66F-7DF6-403B-A371-E9BD3D7FFA07"
+      "class": "group",
+      "id": "AFF39392-A99D-496B-8BF0-63D2083316C2"
     },
     {
       "class": "text",
@@ -183,7 +179,7 @@
       }
     },
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1
     }
   },
   "verticalRulerData": {
