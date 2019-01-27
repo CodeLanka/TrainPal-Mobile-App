@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Custom"
+    "string": "Address"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 44,
+    "width": 46,
     "x": 40,
     "y": 8
   },
-  "glyphBounds": "{{0, 3}, {44, 10}}",
+  "glyphBounds": "{{0, 3}, {46, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Custom",
+  "name": "Address",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

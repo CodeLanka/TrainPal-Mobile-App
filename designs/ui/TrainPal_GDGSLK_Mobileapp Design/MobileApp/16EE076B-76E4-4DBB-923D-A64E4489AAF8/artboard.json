@@ -34,13 +34,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7CA66A89-DFE7-4A56-848A-EF608B0BF9FB",
-    "height": 1234,
+    "height": 740,
     "width": 360,
-    "x": 2804,
-    "y": 946
+    "x": 2344,
+    "y": 985
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -368,19 +368,11 @@
       "id": "B4147FE2-9FDB-47F7-89F5-DFE0CEE52787"
     },
     {
-      "class": "rectangle",
-      "id": "E0A93090-2B2B-4020-9E66-11911DDF8556"
-    },
-    {
       "class": "group",
-      "id": "3E1120E3-E83E-4AE5-8E33-276AF655875B"
-    },
-    {
-      "class": "group",
-      "id": "08C06057-990A-4E8C-89B5-174C239A6745"
+      "id": "99633A0D-C6DF-471B-ACC6-601D9DC424E1"
     }
   ],
-  "name": "main search screen > single result > Extra Stop Shawcase > Sare information combine",
+  "name": "main search screen > single result > Extra Stop Shawcase > Share information combine",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

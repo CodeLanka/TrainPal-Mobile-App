@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 137,
+    "height": 30,
+    "width": 86,
     "x": 242,
     "y": 339
   },
@@ -27,27 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "5615E8B9-78E9-4F3C-94D8-6C55A1C92AEB"
     },
     {
-      "class": "symbolInstance",
-      "id": "6A87FCE9-C373-4900-8D77-A8C34D9F8374"
-    },
-    {
       "class": "text",
       "id": "F7BA9002-1225-4166-A85A-C749E26323E2"
-    },
-    {
-      "class": "text",
-      "id": "1B64EB51-E582-4521-AC47-9738DC8EC4DF"
-    },
-    {
-      "class": "rectangle",
-      "id": "F474BE5B-CC6B-4257-8711-ECD8F606424B"
     }
   ],
   "name": "Group 2 Copy",

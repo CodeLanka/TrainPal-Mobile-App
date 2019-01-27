@@ -108,12 +108,8 @@
       "id": "40D786FD-8C1F-4510-8822-89299F4AB3CC"
     },
     {
-      "class": "rectangle",
-      "id": "E14D4D4F-3643-436A-B417-95EE53C6C5E5"
-    },
-    {
-      "class": "shapePath",
-      "id": "DBC3DB23-FB8E-4976-BBCD-9671ECFEABA0"
+      "class": "group",
+      "id": "918B1717-2297-4443-B7BF-B9460267BD10"
     },
     {
       "class": "shapePath",
@@ -126,38 +122,6 @@
     {
       "class": "shapePath",
       "id": "4EEDA227-3931-422D-93DD-CF79091FE075"
-    },
-    {
-      "class": "shapePath",
-      "id": "5992991F-B45E-4DC2-8426-3D6EC0648BB3"
-    },
-    {
-      "class": "text",
-      "id": "644FB9E5-AEC7-49CE-8958-4CA996111CAF"
-    },
-    {
-      "class": "text",
-      "id": "EE2A44F1-9BE8-4997-9E6E-4ED6EE608C77"
-    },
-    {
-      "class": "text",
-      "id": "16D06F56-0992-4296-8304-B2D0DC51AB45"
-    },
-    {
-      "class": "text",
-      "id": "D93CB600-1A1A-4757-9F6E-5E82E08720E5"
-    },
-    {
-      "class": "text",
-      "id": "696D5733-191C-475F-8ED2-A36D91FAEDE9"
-    },
-    {
-      "class": "text",
-      "id": "3E82A9A4-76F1-4169-8D8B-5EDA97F12706"
-    },
-    {
-      "class": "text",
-      "id": "EEF8ECA8-B667-4155-A40A-ECEF07D7E3C9"
     }
   ],
   "name": "Itineraries - Scheduled - strink > option-trigger",

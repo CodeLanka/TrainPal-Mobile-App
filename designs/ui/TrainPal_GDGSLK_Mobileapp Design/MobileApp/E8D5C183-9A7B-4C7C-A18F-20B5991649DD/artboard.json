@@ -86,6 +86,10 @@
     {
       "class": "text",
       "id": "9BE0FEF4-BEAB-4CC7-B639-C895A9178B0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D417DDF-B238-4C63-A727-5F7871FC4044"
     }
   ],
   "name": "Tickets - onhold > single-ticket >expand",

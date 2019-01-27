@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1234,
+    "height": 740,
     "width": 360,
     "x": 2344,
     "y": 145
@@ -362,9 +362,17 @@
     {
       "class": "group",
       "id": "AFA8B508-C40F-49A1-890D-B3AD15BE3B1E"
+    },
+    {
+      "class": "rectangle",
+      "id": "CF066A94-AC4E-4EC2-A9FB-053CCD8736E2"
+    },
+    {
+      "class": "group",
+      "id": "36B794FD-D7C3-43F9-854E-15B0A26D84CD"
     }
   ],
-  "name": "main search screen > single result > Extra Stop Shawcase",
+  "name": "main search screen > single result > Extra Stop Shawcase > more-option side button slide popup",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
