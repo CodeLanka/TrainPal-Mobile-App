@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "86D84AD5-E87A-4933-B860-4244E0705E13",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C35BC638-D069-4D24-998A-94955120EEB5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AC65B1B-7052-4EC7-A99C-F54055B7AB41",
+    "height": 20,
+    "width": 238,
+    "x": 93,
+    "y": 530
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8B48A91D-7EC1-4E16-83C2-F16F306646F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "816E79DA-DC6C-48F2-935A-F622F47EFEC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B9562E4-9812-4514-9893-7EA73379476E"
+    }
+  ],
+  "name": "element/walking",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7ECC867-3BE9-4EEF-8C32-5CEA60336436",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

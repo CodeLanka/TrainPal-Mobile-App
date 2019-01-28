@@ -17,10 +17,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "7E0275BE-1785-4522-848B-1768BD8CC3FF",
-    "height": 86,
-    "width": 253,
-    "x": 29,
-    "y": 252
+    "height": 100,
+    "width": 198,
+    "x": 83,
+    "y": 248
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -72,12 +72,8 @@
       "id": "55A2BCE6-D10E-45F0-862F-CCA3D6D6884E"
     },
     {
-      "class": "shapeGroup",
-      "id": "B0FE060D-2A22-4561-81EF-DAEB6CC59DCE"
-    },
-    {
-      "class": "oval",
-      "id": "CD3B853E-E701-4B82-9858-9E171E9751BC"
+      "class": "group",
+      "id": "BB9DE2BE-DBD4-40F1-BF2B-0274F0F1B43F"
     }
   ],
   "name": "taking train",

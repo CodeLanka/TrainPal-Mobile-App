@@ -34,10 +34,10 @@
     "height": 740,
     "width": 360,
     "x": 3724,
-    "y": 985
+    "y": 1396
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -428,7 +428,7 @@
       "id": "8A1E2908-6F50-4C2A-92A1-8B685692BF15"
     }
   ],
-  "name": "main search screen > single result > Extra Stop Shawcase > pop-up share information > over-crowding  > effective stations > ",
+  "name": "main search screen > single result > Extra Stop Shawcase > pop-up share information > over-crowding  > effective stations >  Final Submission",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

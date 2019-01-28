@@ -22,16 +22,16 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Colombo fort"
+    "string": "Mathara"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 76,
+    "width": 47,
     "x": 0,
     "y": 1
   },
-  "glyphBounds": "{{0, 2}, {76, 11}}",
+  "glyphBounds": "{{0, 2}, {46, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Colombo fort",
+  "name": "Mathara",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -94,7 +94,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0
         },
         "textStyleVerticalAlignmentKey": 0

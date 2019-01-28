@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95D183E2-3550-442D-97BA-C04FCE8E724D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60BBA797-7E46-4FD4-BBEB-095EE4B09ACB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EAFBF92-D6E5-4B2F-A2A8-08CE8A28D9F5",
+    "height": 72,
+    "width": 45,
+    "x": 86,
+    "y": 431
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F474C214-59AD-4DDD-B870-560160C7F59D"
+    },
+    {
+      "class": "text",
+      "id": "CA7602C7-CE28-4EFB-A615-7AA6F468A2C3"
+    }
+  ],
+  "name": "delayed trains",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6D044DB-8D6B-40B2-899C-4CF6C2C759C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

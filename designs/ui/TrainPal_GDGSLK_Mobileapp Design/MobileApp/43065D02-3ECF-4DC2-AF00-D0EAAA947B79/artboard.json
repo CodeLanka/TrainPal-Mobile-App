@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 740,
+    "height": 1324,
     "width": 360,
     "x": 8786,
     "y": 145
@@ -79,6 +79,14 @@
       "id": "E3156711-FFA8-4F2C-B48E-519F492820F5"
     },
     {
+      "class": "shapePath",
+      "id": "DF4C4E43-F6AA-47AB-B948-0B98115DF3D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "E7833A6F-D8A4-43DD-AAA7-180060591BE2"
+    },
+    {
       "class": "shapeGroup",
       "id": "2494E481-6C3B-4F9A-9C1F-40436EB6A591"
     },
@@ -87,12 +95,32 @@
       "id": "57FFFBE0-70CD-46D0-AAEB-14241B0E4B9E"
     },
     {
-      "class": "text",
-      "id": "FB15DD77-11D7-4A17-80DA-B16300024CD8"
+      "class": "shapeGroup",
+      "id": "0EADAED8-76D8-474A-8E9D-575B76687006"
     },
     {
-      "class": "text",
-      "id": "0208A17E-726E-42C3-A703-F9F7757663B9"
+      "class": "shapeGroup",
+      "id": "481646B4-428B-4DDC-817E-FE91A78AD76B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30CD8B3E-7B9C-46BD-8C11-4BE54E5F63AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D75C7DD-FDF2-44D7-96A1-6CF30ADDE860"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FFF898F-EDB7-403A-B020-2DF434122402"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB6260B2-E95A-4716-9D0E-1C8F1C57AF34"
+    },
+    {
+      "class": "group",
+      "id": "2E5BD5A0-B734-4A02-AEBE-AEA3C7B8D920"
     },
     {
       "class": "group",
@@ -101,9 +129,77 @@
     {
       "class": "group",
       "id": "2D257C27-C217-4DE2-ACEB-D17D072E7DD5"
+    },
+    {
+      "class": "group",
+      "id": "0FAF92F9-AFF2-46F7-8E4D-F0C27080B207"
+    },
+    {
+      "class": "group",
+      "id": "6CA8A0B0-2B58-4DB5-AB10-B435BE7D4832"
+    },
+    {
+      "class": "group",
+      "id": "9A328076-E8B7-4102-A227-110DF799B2B7"
+    },
+    {
+      "class": "group",
+      "id": "9EE87CAA-897F-4582-A73F-6493719F3E34"
+    },
+    {
+      "class": "group",
+      "id": "04FCDA11-588C-4147-9836-B8BD483855B7"
+    },
+    {
+      "class": "group",
+      "id": "DD4714B2-BDC3-4C8E-96D9-584E1D2B4CFC"
+    },
+    {
+      "class": "group",
+      "id": "EEF5544D-029B-4110-83F2-2D41B8906FDE"
+    },
+    {
+      "class": "group",
+      "id": "BFBD8BEB-A84F-4AB5-811C-6B8D5CA1851C"
+    },
+    {
+      "class": "group",
+      "id": "F81E76B9-5E67-42A0-B24B-A290B7805AE6"
+    },
+    {
+      "class": "group",
+      "id": "3ED7382B-BB81-4C7A-BD1A-4A19799067FA"
+    },
+    {
+      "class": "group",
+      "id": "3DAE08B1-2FF9-4D3B-8098-144CF82FFC31"
+    },
+    {
+      "class": "group",
+      "id": "603F34F8-91B5-4343-8E4A-BB9754128B12"
+    },
+    {
+      "class": "group",
+      "id": "5A14BF04-DFBD-4191-A670-5F0193AC9A84"
+    },
+    {
+      "class": "rectangle",
+      "id": "F9A2FAB1-96BD-4D8A-ABE5-CAEE60F3B7D3"
+    },
+    {
+      "class": "text",
+      "id": "12ECA012-63AA-4312-BEF4-DA84CAB296FD"
+    },
+    {
+      "class": "text",
+      "id": "2EA7E3DD-5D67-47A5-AFFE-F6A7510AB7AA"
+    },
+    {
+      "class": "shapePath",
+      "id": "371F7CA1-6949-4A9E-A141-E3D43D220D17"
     }
   ],
-  "name": "details of the train journey ",
+  "name": "train-Detail-journey",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

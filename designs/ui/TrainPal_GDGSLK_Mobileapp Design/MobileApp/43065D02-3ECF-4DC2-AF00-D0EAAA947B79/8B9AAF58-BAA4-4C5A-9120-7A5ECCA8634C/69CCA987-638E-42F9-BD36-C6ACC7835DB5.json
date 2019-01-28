@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Ella"
+    "string": "Colombo Fort"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 21,
-    "x": 112,
+    "width": 79,
+    "x": 83,
     "y": 1
   },
-  "glyphBounds": "{{0, 2}, {20, 11}}",
+  "glyphBounds": "{{0, 2}, {79, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Ella",
+  "name": "Colombo Fort",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

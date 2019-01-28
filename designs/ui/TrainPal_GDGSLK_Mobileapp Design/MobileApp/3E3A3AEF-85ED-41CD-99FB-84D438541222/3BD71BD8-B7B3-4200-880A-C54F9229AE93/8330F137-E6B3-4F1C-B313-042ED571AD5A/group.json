@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8330F137-E6B3-4F1C-B313-042ED571AD5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA5E103B-1368-4070-B118-631E99DC2548",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23ADFC92-9B4F-48DB-ABC8-DEF8A7544717",
+    "height": 86,
+    "width": 60,
+    "x": 158,
+    "y": 432
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4356565A-1D4B-4769-B10C-B413A8A4FEDF"
+    },
+    {
+      "class": "text",
+      "id": "EA567F32-E6F1-48B4-BB1F-58F45D853056"
+    }
+  ],
+  "name": "block-trains",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F03A840F-1F39-4CD2-AFBD-B3A89B348DCF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

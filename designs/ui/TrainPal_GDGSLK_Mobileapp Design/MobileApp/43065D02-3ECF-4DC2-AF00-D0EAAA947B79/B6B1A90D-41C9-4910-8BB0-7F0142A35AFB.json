@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 30,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "reported Veyangoda - Merigama "
+    "string": "Reported Katugoda - Galle "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "134C525A-2E4F-43B7-94BA-9916A08D02F4",
     "height": 14,
-    "width": 157,
+    "width": 130,
     "x": 134,
     "y": 155
   },
-  "glyphBounds": "{{0, 2}, {153, 11}}",
+  "glyphBounds": "{{0, 2}, {126, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "reported Veyangoda -",
+  "name": "Reported Katugoda -",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
