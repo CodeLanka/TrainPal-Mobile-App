@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC830C1C-E5FD-4A44-978D-4571371ED1A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 42,
+    "width": 251,
+    "x": 93,
+    "y": 990
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5E88DB19-4FC1-4D2E-A64D-E7F2807F5A03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E482C561-459C-4603-808D-7131E543CCDE"
+    },
+    {
+      "class": "text",
+      "id": "A589713B-5021-456C-AD16-EF499894C3C4"
+    },
+    {
+      "class": "group",
+      "id": "FF1FF58A-40A8-4429-A674-CD0DDEEA2B68"
+    },
+    {
+      "class": "group",
+      "id": "F9528CAE-3866-45D4-BD26-E9C6F1258C19"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "567D3179-2A51-471A-BC81-D9D6D19DBA63"
+    }
+  ],
+  "name": "element/taxi/uber",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

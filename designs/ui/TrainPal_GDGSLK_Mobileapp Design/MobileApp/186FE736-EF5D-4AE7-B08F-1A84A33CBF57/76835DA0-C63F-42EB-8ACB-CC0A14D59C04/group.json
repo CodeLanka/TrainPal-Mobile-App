@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "76835DA0-C63F-42EB-8ACB-CC0A14D59C04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FF22591-C305-4F75-B689-41F005C901CC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E25E8629-C19E-41FA-BAA5-94CABFD8AFCC",
+    "height": 42,
+    "width": 251,
+    "x": 93,
+    "y": 990
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B2F26153-02D8-47C9-8A22-6CFFA82A9B79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11F736FB-A10B-46BF-A50F-972966DB2F52"
+    },
+    {
+      "class": "text",
+      "id": "C511890E-2D2F-4A7D-9DFA-983016CF7F16"
+    },
+    {
+      "class": "group",
+      "id": "D52D527F-B930-4716-A7CA-6015C08BB3EA"
+    },
+    {
+      "class": "group",
+      "id": "E6B38E45-2587-41CF-A11B-B5021BCE832D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36174FE0-803C-4FF9-BF26-5F2B628A997A"
+    }
+  ],
+  "name": "element/taxi/uber",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D53CA7E6-B6D1-4359-8C42-86B783EA41C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

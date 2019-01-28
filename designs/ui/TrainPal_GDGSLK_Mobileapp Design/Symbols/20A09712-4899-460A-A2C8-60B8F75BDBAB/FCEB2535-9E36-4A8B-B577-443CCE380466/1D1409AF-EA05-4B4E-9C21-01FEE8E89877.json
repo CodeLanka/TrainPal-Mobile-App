@@ -1,0 +1,234 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1D1409AF-EA05-4B4E-9C21-01FEE8E89877",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 11.53125,
+    "width": 11.53125,
+    "x": 14.234375,
+    "y": 14.484375
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0.073170731707317069, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.073170731707317069, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.073170731707317069, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.5, 0.4298780487804878}",
+      "curveMode": 1,
+      "curveTo": "{0.5, 0.4298780487804878}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.5, 0.4298780487804878}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0.92682926829268297, 0}",
+      "curveMode": 1,
+      "curveTo": "{0.92682926829268297, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.92682926829268297, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{1, 0.073170731707317069}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.073170731707317069}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.073170731707317069}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.57012195121951215, 0.5}",
+      "curveMode": 1,
+      "curveTo": "{0.57012195121951215, 0.5}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.57012195121951215, 0.5}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{1, 0.92682926829268297}",
+      "curveMode": 1,
+      "curveTo": "{1, 0.92682926829268297}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0.92682926829268297}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0.92682926829268297, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.92682926829268297, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.92682926829268297, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.5, 0.57012195121951215}",
+      "curveMode": 1,
+      "curveTo": "{0.5, 0.57012195121951215}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.5, 0.57012195121951215}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0.073170731707317069, 1}",
+      "curveMode": 1,
+      "curveTo": "{0.073170731707317069, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.073170731707317069, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0, 0.92682926829268297}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.92682926829268297}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.92682926829268297}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.4298780487804878, 0.5}",
+      "curveMode": 1,
+      "curveTo": "{0.4298780487804878, 0.5}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.4298780487804878, 0.5}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 100,
+      "curveFrom": "{0, 0.073170731707317069}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.073170731707317069}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.073170731707317069}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1098039215686274,
+          "green": 0.1098039215686274,
+          "red": 0.1098039215686274
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1098039215686274,
+          "green": 0.1098039215686274,
+          "red": 0.1098039215686274
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "LineAwesome",
+            "size": 18
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 11.53125,
+            "enabled": 1,
+            "modelID": "constraint_bc3fbc80-5e98-4225-ab06-0537e814a93e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 11.53125
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c710254d-443e-402d-b205-92ea0a3e74a3",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

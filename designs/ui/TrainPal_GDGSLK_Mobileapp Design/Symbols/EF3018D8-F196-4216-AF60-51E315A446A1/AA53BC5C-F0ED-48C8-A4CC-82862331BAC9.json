@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA53BC5C-F0ED-48C8-A4CC-82862331BAC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "63115D93-E197-49F2-8ABC-EACEEB7AB689",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A41493F0-8AA3-49FB-BBF4-8518A37DCC1D",
+    "height": 24,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "↳ System Bar Color",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "D7701029-F6B7-4229-A0DB-15AF5B505908",
+      "opacity": 0.5
+    },
+    "do_objectID": "8380A010-FFED-4E95-BD41-01E454172C27",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42D79650-3940-4D33-97B2-243AB23517B5",
+  "verticalSpacing": 0
+}
