@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Search for and ininerary "
+    "string": "Add a ticket"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB3CC289-8F57-42A3-9494-A3212A336B3B",
+  "do_objectID": "3F638500-0782-4B3D-AC64-E9D068DB0158",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 161,
-    "x": 81,
-    "y": 689
+    "width": 81,
+    "x": 30,
+    "y": 0
   },
-  "glyphBounds": "{{0, 3}, {157, 15}}",
+  "glyphBounds": "{{0, 3}, {81, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Search for and inine Copy",
+  "name": "Add a ticket",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

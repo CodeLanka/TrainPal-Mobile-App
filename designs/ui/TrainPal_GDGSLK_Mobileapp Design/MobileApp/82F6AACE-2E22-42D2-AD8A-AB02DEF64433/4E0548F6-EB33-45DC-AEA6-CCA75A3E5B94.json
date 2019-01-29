@@ -2,11 +2,10 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AD56531A-DED1-4764-86D6-87E2B244CECE",
+  "do_objectID": "4E0548F6-EB33-45DC-AEA6-CCA75A3E5B94",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "84FA1E9D-4469-44C9-A967-0B6E8D1C5FA2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,11 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "11582AE8-4D83-47B0-BAA7-6E1EF3804DD2",
-    "height": 54,
-    "width": 54,
-    "x": 153,
-    "y": 900
+    "height": 133,
+    "width": 133,
+    "x": 114,
+    "y": 821
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -31,7 +29,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval",
+  "name": "Oval Copy 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -98,7 +96,6 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "2B5329CA-EB63-4571-8462-4EEBB60D9697",
     "endMarkerType": 0,
     "fills": [
       {

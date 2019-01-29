@@ -218,7 +218,19 @@
     },
     {
       "class": "bitmap",
-      "id": "9C22FC23-2364-4E2F-84BE-2B2DC2898FD5"
+      "id": "EA813841-D0A2-41A9-ADF3-00DD582B816B"
+    },
+    {
+      "class": "bitmap",
+      "id": "8B9077FB-3701-4CB8-AEED-878064974CF7"
+    },
+    {
+      "class": "bitmap",
+      "id": "7573E51A-CD8F-44C2-9E44-43076345F86C"
+    },
+    {
+      "class": "bitmap",
+      "id": "6B84591D-CBC5-4128-9D1A-DB71A36CAA73"
     }
   ],
   "name": "MobileApp",

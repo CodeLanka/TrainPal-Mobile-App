@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "9C22FC23-2364-4E2F-84BE-2B2DC2898FD5",
+  "do_objectID": "7573E51A-CD8F-44C2-9E44-43076345F86C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +17,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 1209,
-    "width": 588,
-    "x": 12345,
-    "y": 80
+    "height": 726,
+    "width": 505,
+    "x": 12831,
+    "y": 320
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/42b4128dbfc34f2df9f06341c779a7c063b27b57.png",
+    "_ref": "images/3f12939198c3f3b327a8314a52911cbc77d3e0cd.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 72,
+  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Screenshot_20181117-160949_SNCF",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

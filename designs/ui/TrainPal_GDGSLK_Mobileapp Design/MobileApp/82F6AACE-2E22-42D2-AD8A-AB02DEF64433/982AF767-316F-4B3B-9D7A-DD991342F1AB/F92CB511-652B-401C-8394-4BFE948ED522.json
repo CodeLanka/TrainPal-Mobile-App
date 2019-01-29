@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "LineAwesome",
-              "size": 16
+              "name": "Avenir-Heavy",
+              "size": 14
             }
           },
           "paragraphStyle": {
@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 38,
         "location": 0
       }
     ],
-    "string": ""
+    "string": "Add a traffic and line info your lines"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E995F25E-EDD0-4673-95BB-ED28E02B5A4D",
+  "do_objectID": "F92CB511-652B-401C-8394-4BFE948ED522",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 16,
-    "x": 50,
-    "y": 651
+    "height": 19,
+    "width": 235,
+    "x": 30,
+    "y": 0
   },
-  "glyphBounds": "{{1, 2}, {14, 14}}",
+  "glyphBounds": "{{0, 3}, {234, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "",
+  "name": "Add a traffic and li",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -88,8 +88,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "LineAwesome",
-            "size": 16
+            "name": "Avenir-Heavy",
+            "size": 14
           }
         },
         "paragraphStyle": {

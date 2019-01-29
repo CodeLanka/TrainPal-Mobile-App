@@ -76,14 +76,6 @@
       "id": "99D8D81C-D872-45B1-9940-9D2B4767F189"
     },
     {
-      "class": "text",
-      "id": "E995F25E-EDD0-4673-95BB-ED28E02B5A4D"
-    },
-    {
-      "class": "text",
-      "id": "B0CF040D-0818-40C7-A643-E0256B14D053"
-    },
-    {
       "class": "group",
       "id": "1AAC61ED-44F6-4156-BDE3-7523B86C16DB"
     },
@@ -156,16 +148,32 @@
       "id": "E86F86E7-82FC-419C-A8B4-23EF06BEC94F"
     },
     {
-      "class": "text",
-      "id": "301A7901-6297-437C-BA31-F2B487C347FC"
+      "class": "group",
+      "id": "A633D9D4-2CC2-4D40-B976-F937CF43194B"
     },
     {
-      "class": "text",
-      "id": "CB3CC289-8F57-42A3-9494-A3212A336B3B"
+      "class": "group",
+      "id": "5D6EE10C-FB79-4465-B5BB-24D0B367F605"
+    },
+    {
+      "class": "group",
+      "id": "56036B82-C550-4791-81FD-203E09FA3DC2"
+    },
+    {
+      "class": "group",
+      "id": "982AF767-316F-4B3B-9D7A-DD991342F1AB"
+    },
+    {
+      "class": "oval",
+      "id": "4E0548F6-EB33-45DC-AEA6-CCA75A3E5B94"
     },
     {
       "class": "oval",
       "id": "AD56531A-DED1-4764-86D6-87E2B244CECE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AB94053-CE37-4349-BDD7-132250968091"
     }
   ],
   "name": "Land - extended - empty itineraries",
