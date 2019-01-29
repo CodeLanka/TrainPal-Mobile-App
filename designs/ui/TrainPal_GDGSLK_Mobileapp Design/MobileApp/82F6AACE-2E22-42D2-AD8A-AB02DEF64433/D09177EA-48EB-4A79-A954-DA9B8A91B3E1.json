@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8862745098039215,
-            "green": 0.6196078431372548,
-            "red": 0
+            "blue": 0.2902374565601349,
+            "green": 0.2901752889156342,
+            "red": 0.290221631526947
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Avenir-Heavy",
-              "size": 11
+              "size": 12
             }
           },
           "paragraphStyle": {
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "Other all trips"
+    "string": "You do not have any scheduled itinerary "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 72,
-    "x": 144,
-    "y": 570
+    "height": 16,
+    "width": 229,
+    "x": 66,
+    "y": 567
   },
-  "glyphBounds": "{{0, 2}, {72, 12}}",
+  "glyphBounds": "{{-1, 2}, {227, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Other all trips",
+  "name": "You do not have any",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,15 +81,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8862745098039215,
-          "green": 0.6196078431372548,
-          "red": 0
+          "blue": 0.2902374565601349,
+          "green": 0.2901752889156342,
+          "red": 0.290221631526947
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Avenir-Heavy",
-            "size": 11
+            "size": 12
           }
         },
         "paragraphStyle": {

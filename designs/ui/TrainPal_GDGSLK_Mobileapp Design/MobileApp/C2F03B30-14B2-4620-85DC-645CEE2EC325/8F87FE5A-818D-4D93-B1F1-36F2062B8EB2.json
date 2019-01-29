@@ -31,6 +31,12 @@
   "name": "System Bar / Primary",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C64BC04-F188-4703-B6B8-87B7541BAAE2",
+      "overrideName": "AA53BC5C-F0ED-48C8-A4CC-82862331BAC9_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "CircularStd-Bold",
+              "name": "Avenir-Black",
               "size": 12
             }
           },
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "153CFBC4-5CC0-4591-A6EE-80D64C3B8D46",
-    "height": 15,
+    "height": 16,
     "width": 31,
     "x": 40,
     "y": 4
   },
-  "glyphBounds": "{{0, 3}, {31, 10}}",
+  "glyphBounds": "{{-1, 2}, {32, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "CircularStd-Bold",
+            "name": "Avenir-Black",
             "size": 12
           }
         },

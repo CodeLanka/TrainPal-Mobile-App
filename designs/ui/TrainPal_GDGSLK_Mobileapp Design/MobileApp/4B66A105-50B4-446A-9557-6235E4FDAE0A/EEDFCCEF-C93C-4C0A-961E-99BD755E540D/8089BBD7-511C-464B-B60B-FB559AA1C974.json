@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "CircularStd-Bold",
+              "name": "Avenir-Black",
               "size": 14
             }
           },
@@ -53,8 +53,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C85BCCCB-FA93-4429-8A5B-AA4A4F91AB6A",
-    "height": 18,
-    "width": 39,
+    "height": 19,
+    "width": 40,
     "x": 40,
     "y": 2
   },
@@ -93,7 +93,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "CircularStd-Bold",
+            "name": "Avenir-Black",
             "size": 14
           }
         },

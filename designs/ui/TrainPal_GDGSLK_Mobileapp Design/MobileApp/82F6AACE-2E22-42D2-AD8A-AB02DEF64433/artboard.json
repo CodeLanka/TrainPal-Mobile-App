@@ -76,6 +76,14 @@
       "id": "99D8D81C-D872-45B1-9940-9D2B4767F189"
     },
     {
+      "class": "text",
+      "id": "E995F25E-EDD0-4673-95BB-ED28E02B5A4D"
+    },
+    {
+      "class": "text",
+      "id": "B0CF040D-0818-40C7-A643-E0256B14D053"
+    },
+    {
       "class": "group",
       "id": "1AAC61ED-44F6-4156-BDE3-7523B86C16DB"
     },
@@ -132,12 +140,32 @@
       "id": "D09177EA-48EB-4A79-A954-DA9B8A91B3E1"
     },
     {
+      "class": "text",
+      "id": "5A638230-8FBE-47FC-896A-78B26658A949"
+    },
+    {
       "class": "shapePath",
       "id": "968469A2-2E08-44C4-9568-0A67704356E4"
     },
     {
       "class": "shapePath",
       "id": "E726F8B2-624A-4AD2-8741-C3DACDE4219B"
+    },
+    {
+      "class": "group",
+      "id": "E86F86E7-82FC-419C-A8B4-23EF06BEC94F"
+    },
+    {
+      "class": "text",
+      "id": "301A7901-6297-437C-BA31-F2B487C347FC"
+    },
+    {
+      "class": "text",
+      "id": "CB3CC289-8F57-42A3-9494-A3212A336B3B"
+    },
+    {
+      "class": "oval",
+      "id": "AD56531A-DED1-4764-86D6-87E2B244CECE"
     }
   ],
   "name": "Land - extended - empty itineraries",
