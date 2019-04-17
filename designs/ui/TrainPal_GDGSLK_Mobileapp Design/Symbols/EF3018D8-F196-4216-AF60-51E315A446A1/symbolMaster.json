@@ -37,6 +37,9 @@
     "isEnabled": true,
     "thickGridTimes": 40
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -84,6 +87,18 @@
   },
   "name": "System Bar / Transparent",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AA53BC5C-F0ED-48C8-A4CC-82862331BAC9_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C77A7717-5B52-4D0A-A14B-82A2CC6C7D6C_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
